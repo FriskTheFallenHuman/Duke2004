@@ -3,20 +3,12 @@
 ###############################################################################
 # Documentation options.
 
-$doUE3Docs           = 1;    # Generate UE3 documentation?
-$doXenonDocs         = 1;    # Generate Xenon-specific documentation?
-$doPS3Docs           = 1;    # Generate PS3-specific documentation?
-
 $deleteTempFiles     = 1;    # Delete temporary HTML files?
-$doxygen             = 'c:\\bin\doxygen\\doxygen.exe';
+$doxygen             = 'C:\\Program Files\\doxygen\\bin\\doxygen.exe';
 
 $doxyfileUE3         = 'UnrealEngine3.dox';
-$doxyfileXenon       = 'Xenon.dox';
-$doxyfilePS3         = 'PS3.dox';
 
 $doxyUE3Logfile      = 'latestDoxygenOutput_UE3.log';
-$doxyXenonLogfile    = 'latestDoxygenOutput_Xenon.log';
-$doxyPS3Logfile      = 'latestDoxygenOutput_PS3.log';
 
 ###############################################################################
 # clock/unclock variables
@@ -79,29 +71,14 @@ sub unclock
 
 sub BuildDocs
 {
-	if ( $doUE3Docs == 1 )
-	{
-		print "Building UnrealEngine3 documentation . . .\n";
-		system("$doxygen $doxyfileUE3 > $doxyUE3Logfile 2>&1");
-	}
+	print "Updating UnrealEngine3 DoxyGen doc . . .\n";
+	system("$doxygen $doxyfileUE3 -u > $doxyUE3Logfile-update 2>&1");
 
-	if ( $doXenonDocs == 1 )
-	{
-		print "Building Xenon-specific documentation . . .\n";
-		system("$doxygen $doxyfileXenon > $doxyXenonLogfile 2>&1");	
-	}
-
-	if ( $doPS3Docs == 1 )
-	{
-		print "Building PS3-specific documentation . . .\n";
-		system("$doxygen $doxyfilePS3 > $doxyPS3Logfile 2>&1");	
-	}
-
+	print "Building UnrealEngine3 documentation . . .\n";
+	system("$doxygen $doxyfileUE3 > $doxyUE3Logfile 2>&1");
 
 	# Copy off the compiled html files and kill temps.
-	system("copy ..\\Documentation\\PC\\html\\UnrealEngine3.chm ..\\Documentation\\");
-	system("copy ..\\Documentation\\Xenon\\html\\Xenon.chm ..\\Documentation\\Xenon\\");
-	system("copy ..\\Documentation\\PS3\\html\\PS3.chm ..\\Documentation\\PS3\\");	
+	system("copy ..\\Documentation\\html\\UnrealEngine3.chm ..\\Documentation\\");
 
 	if ( $deleteTempFiles == 1 )
 	{
