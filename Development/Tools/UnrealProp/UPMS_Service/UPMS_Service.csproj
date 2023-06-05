@@ -10,11 +10,14 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>UnrealProp</RootNamespace>
     <AssemblyName>UPMS_Service</AssemblyName>
-    <SccProjectName>Perforce Project</SccProjectName>
-    <SccLocalPath>..\..</SccLocalPath>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
     <SccAuxPath>
     </SccAuxPath>
-    <SccProvider>MSSCCI:Perforce SCM</SccProvider>
+    <SccProvider>
+    </SccProvider>
     <StartupObject>UnrealProp.Program</StartupObject>
     <IsWebBootstrapper>true</IsWebBootstrapper>
     <FileUpgradeFlags>

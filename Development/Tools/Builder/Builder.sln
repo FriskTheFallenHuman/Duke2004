@@ -5,10 +5,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Frontend", "Frontend", "{C5391DC7-71FF-48CE-8928-842B07EC1443}"
 	ProjectSection(WebsiteProperties) = preProject
-		SccProjectName = "Perforce Project"
+		SccProjectName = ""
 		SccAuxPath = ""
-		SccLocalPath = ".."
-		SccProvider = "MSSCCI:Perforce SCM"
+		SccLocalPath = ""
+		SccProvider = ""
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		Debug.AspNetCompiler.VirtualPath = "/Frontend"
 		Debug.AspNetCompiler.PhysicalPath = "Frontend\"
@@ -41,33 +41,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnrealSyncService", "UnrealSync2Service\UnrealSyncService.csproj", "{94CC6068-D4E3-492E-9F55-AD10F6F99D15}"
 EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 8
-		SccLocalPath0 = .
-		SccWebProject1 = true
-		SccProjectUniqueName1 = Frontend
-		SccLocalPath1 = .
-		SccProjectFilePathRelativizedFromConnection1 = Frontend\\
-		SccProjectEnlistmentChoice1 = 2
-		SccProjectUniqueName2 = Controller\\Controller.csproj
-		SccLocalPath2 = ..
-		SccProjectFilePathRelativizedFromConnection2 = Builder\\Controller\\
-		SccProjectUniqueName3 = CISMonitor\\CISMonitor.csproj
-		SccLocalPath3 = ..
-		SccProjectFilePathRelativizedFromConnection3 = Builder\\CISMonitor\\
-		SccProjectUniqueName4 = UnrealSync2\\UnrealSync2.csproj
-		SccLocalPath4 = ..
-		SccProjectFilePathRelativizedFromConnection4 = Builder\\UnrealSync2\\
-		SccProjectUniqueName5 = CISStatus\\CISStatus.csproj
-		SccLocalPath5 = ..
-		SccProjectFilePathRelativizedFromConnection5 = Builder\\CISStatus\\
-		SccProjectUniqueName6 = CISMonitorService\\CISMonitorService.csproj
-		SccLocalPath6 = ..
-		SccProjectFilePathRelativizedFromConnection6 = Builder\\CISMonitorService\\
-		SccProjectUniqueName7 = UnrealSync2Service\\UnrealSyncService.csproj
-		SccLocalPath7 = ..
-		SccProjectFilePathRelativizedFromConnection7 = Builder\\UnrealSync2Service\\
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET
 		Debug|Any CPU = Debug|Any CPU

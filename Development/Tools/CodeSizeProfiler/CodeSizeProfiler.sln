@@ -4,12 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSizeProfiler", "CodeSizeProfiler\CodeSizeProfiler.csproj", "{D1E1EBB9-C2C5-4510-B768-6FAC68E8ABF2}"
 EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 2
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = CodeSizeProfiler\\CodeSizeProfiler.csproj
-		SccLocalPath1 = CodeSizeProfiler
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU

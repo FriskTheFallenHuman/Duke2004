@@ -12,10 +12,14 @@
     <AssemblyName>MakeISO</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <SccProjectName>SAK</SccProjectName>
-    <SccLocalPath>SAK</SccLocalPath>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccProvider>SAK</SccProvider>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <OldToolsVersion>3.5</OldToolsVersion>
@@ -57,7 +61,7 @@
   <ItemGroup>
     <Reference Include="Interop.IMAPI2FS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Interop.IMAPI2FS.dll</HintPath>
+      <HintPath>..\Common\Binaries\Interop.IMAPI2FS.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">

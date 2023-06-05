@@ -4,13 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemLeakCheckDiffer", "MemLeakCheckDiffer\MemLeakCheckDiffer.csproj", "{AB38C3EE-D775-4A59-8A23-B5A5209EB11E}"
 EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 2
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = MemLeakCheckDiffer\\MemLeakCheckDiffer.csproj
-		SccLocalPath1 = .
-		SccProjectFilePathRelativizedFromConnection1 = MemLeakCheckDiffer\\
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|x64 = Debug|x64

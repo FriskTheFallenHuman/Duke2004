@@ -11,10 +11,14 @@
     <RootNamespace>UnrealLoc</RootNamespace>
     <AssemblyName>UnrealLoc</AssemblyName>
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <SccProjectName>SAK</SccProjectName>
-    <SccLocalPath>SAK</SccLocalPath>
-    <SccAuxPath>SAK</SccAuxPath>
-    <SccProvider>SAK</SccProvider>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
     <UpgradeBackupLocation>
@@ -58,7 +62,7 @@
   <ItemGroup>
     <Reference Include="P4API, Version=1.0.4546.39785, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Binaries\P4API.dll</HintPath>
+      <HintPath>..\Common\Binaries\P4API.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />

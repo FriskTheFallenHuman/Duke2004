@@ -6,15 +6,6 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwarmInterface", "..\..\Src\UnrealSwarm\SwarmInterface.vcxproj", "{54F53AAA-13BC-41E2-BD80-12C218C8CA9F}"
 EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 3
-		SccProjectUniqueName0 = ..\\..\\Src\\UnrealSwarm\\SwarmInterface.vcxproj
-		SccLocalPath0 = ..\\..
-		SccProjectFilePathRelativizedFromConnection0 = Src\\UnrealSwarm\\
-		SccLocalPath1 = .
-		SccProjectUniqueName2 = UnrealLightmass.vcxproj
-		SccLocalPath2 = .
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
 		Debug|Win64 = Debug|Win64
