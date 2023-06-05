@@ -120,7 +120,7 @@ END
 // Bitmap
 //
 
-IDR_BMP_SPLASH          BITMAP                  "..\\..\\..\\..\\UDKGame\\Splash\\PC\\Splash.bmp"
+IDR_BMP_SPLASH          BITMAP                  "..\\..\\..\\..\\Engine\\Splash\\PC\\Splash.bmp"
 
 /////////////////////////////////////////////////////////////////////////////
 //
