@@ -1045,5 +1045,14 @@ dkms.conf
 *.dis
 
 
-### Unreal Engine 3
+### Unreal Engine 3 Stuffs
 Development/External
+Development/Intermediate
+Development/Install
+
+### UE3 Game Relate stuffs
+DukeGame/Script/*.u
+DukeGame/ScriptFinalRelease/*.u
+DukeGame/Logs/*.txt
+DukeGame/Cache/*
+DukeGame/Autosaves/*
