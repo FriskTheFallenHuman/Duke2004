@@ -1,0 +1,5 @@
+# Force some filetypes to be text
+*.xml text
+*.properties text
+*.int text
+*.sha text

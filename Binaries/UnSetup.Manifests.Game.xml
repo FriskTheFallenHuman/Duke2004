@@ -37,6 +37,7 @@
 		<string>Binaries/Redist/UE3Redist.exe</string>
 		<string>Binaries/Win32/(.*).dll$</string>
 		<string>Binaries/Win32/%GAMENAME%Game.exe</string>		
+		<string>Binaries/Win32/UE3ShaderCompileWorker.exe</string>
 		<string>Binaries/UnSetup.Game.xml</string>
 		<string>Binaries/UnSetup.Manifests.xml</string>
 		<string>Binaries/build.properties</string>
