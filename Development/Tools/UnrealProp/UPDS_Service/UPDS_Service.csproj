@@ -11,11 +11,14 @@
     <RootNamespace>UnrealProp</RootNamespace>
     <AssemblyName>UPDS_Service</AssemblyName>
     <StartupObject>UnrealProp.Program</StartupObject>
-    <SccProjectName>Perforce Project</SccProjectName>
-    <SccLocalPath>..\..</SccLocalPath>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
     <SccAuxPath>
     </SccAuxPath>
-    <SccProvider>MSSCCI:Perforce SCM</SccProvider>
+    <SccProvider>
+    </SccProvider>
     <TargetZone>LocalIntranet</TargetZone>
     <GenerateManifests>false</GenerateManifests>
     <FileUpgradeFlags>

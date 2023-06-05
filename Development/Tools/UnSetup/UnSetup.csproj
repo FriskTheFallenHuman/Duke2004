@@ -13,11 +13,14 @@
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <SccProjectName>Perforce Project</SccProjectName>
-    <SccLocalPath>.</SccLocalPath>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
     <SccAuxPath>
     </SccAuxPath>
-    <SccProvider>MSSCCI:Perforce SCM</SccProvider>
+    <SccProvider>
+    </SccProvider>
     <ApplicationIcon>..\..\Src\Launch\Resources\UDK.ico</ApplicationIcon>
     <SignManifests>false</SignManifests>
     <GenerateManifests>false</GenerateManifests>
@@ -46,7 +49,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>Debug\</OutputPath>
+    <OutputPath>..\..\..\Binaries\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -54,7 +57,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>Release\</OutputPath>
+    <OutputPath>..\..\..\Binaries\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -62,11 +65,11 @@
   <ItemGroup>
     <Reference Include="Interop.IWshRuntimeLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\Binaries\InstallData\Interop.IWshRuntimeLibrary.dll</HintPath>
+      <HintPath>..\Common\Binaries\Interop.IWshRuntimeLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Ionic.Zip.Reduced, Version=1.9.1.5, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\binaries\Ionic.Zip.Reduced.dll</HintPath>
+      <HintPath>..\Common\Binaries\Ionic.Zip.Reduced.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
@@ -281,9 +284,8 @@
   </Target>
   -->
   <PropertyGroup>
-    <PostBuildEvent>"C:/Program Files (x86)/Microsoft/ILMerge/Ilmerge.exe" /t:winexe /targetplatform:v4,C:\Windows\Microsoft.NET\Framework64\v4.0.30319 /out:"..\..\..\..\Binaries\UnSetup.exe" UnSetup.exe "..\..\..\..\Binaries\Ionic.Zip.Reduced.dll"
-copy "../../../../Binaries/UnSetup.exe" "../../../Install/InstallFiles/Binaries/UnSetup.exe"
-</PostBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
     <PreBuildEvent>
     </PreBuildEvent>
   </PropertyGroup>

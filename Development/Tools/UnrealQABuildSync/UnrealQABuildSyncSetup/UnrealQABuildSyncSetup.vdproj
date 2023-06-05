@@ -7,22 +7,22 @@
 "LanguageId" = "3:0"
 "CodePage" = "3:1252"
 "UILanguageId" = "3:0"
-"SccProjectName" = "8:Perforce Project"
-"SccLocalPath" = "8:.."
+"SccProjectName" = "8:"
+"SccLocalPath" = "8:"
 "SccAuxPath" = "8:"
-"SccProvider" = "8:MSSCCI:Perforce SCM"
+"SccProvider" = "8:"
     "Hierarchy"
     {
         "Entry"
         {
-        "MsmKey" = "8:_384086828EA14DEC91C9DE15F80D986F"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_03EC124E82C719077F26E0509A0A1F06"
+        "OwnerKey" = "8:_5B7B38259B574E548D57622904924F21"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_4B79ADF37C03F4D9958E3C58D29947A7"
-        "OwnerKey" = "8:_5B7B38259B574E548D57622904924F21"
+        "MsmKey" = "8:_384086828EA14DEC91C9DE15F80D986F"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -33,13 +33,7 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_67A6515C08FE2C10900081B60CCCCD9D"
-        "OwnerKey" = "8:_5B7B38259B574E548D57622904924F21"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_6AF230B7CDC6B4CFE8C9B812C98607AB"
+        "MsmKey" = "8:_BAD5E0039E431D44E9C831E3A9725EF9"
         "OwnerKey" = "8:_5B7B38259B574E548D57622904924F21"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -52,19 +46,13 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_67A6515C08FE2C10900081B60CCCCD9D"
+        "OwnerKey" = "8:_BAD5E0039E431D44E9C831E3A9725EF9"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_6AF230B7CDC6B4CFE8C9B812C98607AB"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_4B79ADF37C03F4D9958E3C58D29947A7"
+        "OwnerKey" = "8:_03EC124E82C719077F26E0509A0A1F06"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -172,6 +160,37 @@
         }
         "File"
         {
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_03EC124E82C719077F26E0509A0A1F06"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:P4API, Version=1.0.4549.28568, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_03EC124E82C719077F26E0509A0A1F06"
+                    {
+                    "Name" = "8:P4API.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:P4API.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_581558FAC0C74888910970B7975252F8"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_384086828EA14DEC91C9DE15F80D986F"
             {
             "SourcePath" = "8:..\\Resources\\Unreal.ico"
@@ -192,82 +211,20 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4B79ADF37C03F4D9958E3C58D29947A7"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BAD5E0039E431D44E9C831E3A9725EF9"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:UnrealControls, Version=1.0.4551.28878, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:UnrealControls, Version=1.0.8555.34044, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_4B79ADF37C03F4D9958E3C58D29947A7"
+                    "_BAD5E0039E431D44E9C831E3A9725EF9"
                     {
                     "Name" = "8:UnrealControls.dll"
                     "Attributes" = "3:512"
                     }
                 }
             "SourcePath" = "8:UnrealControls.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_581558FAC0C74888910970B7975252F8"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_67A6515C08FE2C10900081B60CCCCD9D"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:p4dn_x86, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86"
-                "ScatterAssemblies"
-                {
-                    "_67A6515C08FE2C10900081B60CCCCD9D"
-                    {
-                    "Name" = "8:p4dn.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:p4dn.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_581558FAC0C74888910970B7975252F8"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6AF230B7CDC6B4CFE8C9B812C98607AB"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:P4API, Version=1.0.4549.28568, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_6AF230B7CDC6B4CFE8C9B812C98607AB"
-                    {
-                    "Name" = "8:P4API.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:P4API.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_581558FAC0C74888910970B7975252F8"

@@ -17,30 +17,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SwarmInterface", "..\..\Src
 	EndProjectSection
 EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 7
-		SccProjectName0 = Perforce\u0020Project
-		SccLocalPath0 = ..\\..
-		SccProvider0 = MSSCCI:Perforce\u0020SCM
-		SccProjectFilePathRelativizedFromConnection0 = Tools\\UnrealSwarm\\
-		SccProjectUniqueName1 = SwarmCoordinator\\SwarmCoordinator.csproj
-		SccLocalPath1 = ..\\..
-		SccProjectFilePathRelativizedFromConnection1 = Tools\\UnrealSwarm\\SwarmCoordinator\\
-		SccProjectUniqueName2 = SwarmCoordinatorInterface\\SwarmCoordinatorInterface.csproj
-		SccLocalPath2 = ..\\..
-		SccProjectFilePathRelativizedFromConnection2 = Tools\\UnrealSwarm\\SwarmCoordinatorInterface\\
-		SccProjectUniqueName3 = Agent\\Agent.csproj
-		SccLocalPath3 = ..\\..
-		SccProjectFilePathRelativizedFromConnection3 = Tools\\UnrealSwarm\\Agent\\
-		SccProjectUniqueName4 = TestHarness\\TestHarness.vcxproj
-		SccLocalPath4 = ..\\..
-		SccProjectFilePathRelativizedFromConnection4 = Tools\\UnrealSwarm\\TestHarness\\
-		SccProjectUniqueName5 = ..\\..\\Src\\UnrealSwarm\\SwarmInterface.vcxproj
-		SccLocalPath5 = ..\\..
-		SccProjectFilePathRelativizedFromConnection5 = Src\\UnrealSwarm\\
-		SccProjectUniqueName6 = AgentInterface\\AgentInterface.vcxproj
-		SccLocalPath6 = AgentInterface
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms

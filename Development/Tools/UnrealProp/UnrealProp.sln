@@ -5,10 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UPDS_Service", "UPDS_Servic
 EndProject
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UPWebSite", "UPWebSite", "{4645D754-E060-4417-92D8-2C0BF28550CC}"
 	ProjectSection(WebsiteProperties) = preProject
-		SccProjectName = "Perforce Project"
+		SccProjectName = ""
 		SccAuxPath = ""
-		SccLocalPath = "."
-		SccProvider = "MSSCCI:Perforce SCM"
+		SccLocalPath = ""
+		SccProvider = ""
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
 		ProjectReferences = "{ED84CA2B-9224-4DC6-BC49-A0CBB2C599EE}|RemotableType.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/UPWebSite"
@@ -33,23 +33,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemotableType", "RemotableType\RemotableType.csproj", "{ED84CA2B-9224-4DC6-BC49-A0CBB2C599EE}"
 EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 5
-		SccLocalPath0 = .
-		SccWebProject1 = true
-		SccProjectUniqueName1 = UPWebSite
-		SccLocalPath1 = D:\\depot\\UnrealEngine3\\Development\\Tools\\UnrealProp\\UPWebSite
-		SccProjectEnlistmentChoice1 = 2
-		SccProjectUniqueName2 = UPDS_Service\\UPDS_Service.csproj
-		SccLocalPath2 = ..
-		SccProjectFilePathRelativizedFromConnection2 = UnrealProp\\UPDS_Service\\
-		SccProjectUniqueName3 = UPMS_Service\\UPMS_Service.csproj
-		SccLocalPath3 = ..
-		SccProjectFilePathRelativizedFromConnection3 = UnrealProp\\UPMS_Service\\
-		SccProjectUniqueName4 = RemotableType\\RemotableType.csproj
-		SccLocalPath4 = ..
-		SccProjectFilePathRelativizedFromConnection4 = UnrealProp\\RemotableType\\
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET
 		Debug|Any CPU = Debug|Any CPU

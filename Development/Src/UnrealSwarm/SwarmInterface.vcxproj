@@ -21,9 +21,12 @@
   <PropertyGroup Label="Globals">
     <ProjectGuid>{54F53AAA-13BC-41E2-BD80-12C218C8CA9F}</ProjectGuid>
     <RootNamespace>DistroInterface</RootNamespace>
-    <SccProjectName>Perforce Project</SccProjectName>
-    <SccLocalPath>..\..</SccLocalPath>
-    <SccProvider>MSSCCI:Perforce SCM</SccProvider>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccProvider>
+    </SccProvider>
     <Keyword>Win32Proj</Keyword>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

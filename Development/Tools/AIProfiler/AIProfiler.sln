@@ -4,12 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIProfiler", "AIProfiler\AIProfiler.csproj", "{1F0E2FD9-C1E4-4B12-AB9E-BB03B9CFCBBD}"
 EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 2
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = AIProfiler\\AIProfiler.csproj
-		SccLocalPath1 = AIProfiler
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU

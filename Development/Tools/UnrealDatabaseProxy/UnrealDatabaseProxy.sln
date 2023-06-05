@@ -6,16 +6,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{40F5464A-DF30-422E-8197-B3FFA8797E13}"
 EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 3
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = UnrealDatabaseProxy\\UnrealDatabaseProxy.csproj
-		SccLocalPath1 = .
-		SccProjectFilePathRelativizedFromConnection1 = UnrealDatabaseProxy\\
-		SccProjectUniqueName2 = TestApp\\TestApp.csproj
-		SccLocalPath2 = .
-		SccProjectFilePathRelativizedFromConnection2 = TestApp\\
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU

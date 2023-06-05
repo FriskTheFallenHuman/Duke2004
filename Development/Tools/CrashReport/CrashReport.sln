@@ -8,14 +8,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoReportWebService", "AutoReportWebService\AutoReportWebService.csproj", "{FF7FEB41-0CFA-4747-8E3D-41027008A7BB}"
 EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 3
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = AutoReporter\\AutoReporter.csproj
-		SccLocalPath1 = AutoReporter
-		SccProjectUniqueName2 = CrashReport\\CrashReport.csproj
-		SccLocalPath2 = CrashReport
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		DebugAutoReporter|Any CPU = DebugAutoReporter|Any CPU

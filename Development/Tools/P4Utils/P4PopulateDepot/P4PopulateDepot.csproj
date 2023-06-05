@@ -54,8 +54,9 @@
     <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="P4API">
-      <HintPath>P4API.dll</HintPath>
+	<Reference Include="P4API, Version=1.0.4549.28568, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+	  <HintPath>..\..\Common\Binaries\P4API.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
