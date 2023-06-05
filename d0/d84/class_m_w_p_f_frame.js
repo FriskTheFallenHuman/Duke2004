@@ -1,0 +1,25 @@
+var class_m_w_p_f_frame =
+[
+    [ "MWPFFrame", "d0/d84/class_m_w_p_f_frame.html#a775cc846c0941b4bd629879a5654eaf6", null ],
+    [ "~MWPFFrame", "d0/d84/class_m_w_p_f_frame.html#a8ac41bbd81450fb67df4cefc7f76104a", null ],
+    [ "Close", "d0/d84/class_m_w_p_f_frame.html#a9af10e5a3ef30b6befea41b65f0318dd", null ],
+    [ "CloseButtonClicked", "d0/d84/class_m_w_p_f_frame.html#ac4bb247495047623c156145255c0c37e", null ],
+    [ "FrameMessageHookFunction", "d0/d84/class_m_w_p_f_frame.html#a243c6ae22c6f5804005fea9e941b58c6", null ],
+    [ "GetEventBorder", "d0/d84/class_m_w_p_f_frame.html#ae00275740ce5af3eaa7ad8e1d410c662", null ],
+    [ "HelpButtonClicked", "d0/d84/class_m_w_p_f_frame.html#a18c7405fbc2a4e76541917b5c99e9c6b", null ],
+    [ "LayoutWindow", "d0/d84/class_m_w_p_f_frame.html#a803059dd544d7a0bdbef2c58f46d5f01", null ],
+    [ "Raise", "d0/d84/class_m_w_p_f_frame.html#a386b530fe283e0f14df268876ec9f3d9", null ],
+    [ "SaveLayout", "d0/d84/class_m_w_p_f_frame.html#acb781b7ba5d3722c8c73abf3a22dd741", null ],
+    [ "SetContentAndShow", "d0/d84/class_m_w_p_f_frame.html#a8b31f2c2db142e6efa72652f41cb56b8", null ],
+    [ "SetContentAndShowComposite", "d0/d84/class_m_w_p_f_frame.html#a9e1f9cd469018ce08e9c5eec7b4ad5ff", null ],
+    [ "SetContentAndShowModal", "d0/d84/class_m_w_p_f_frame.html#ab56bca6ea116f557432697cc837e7353", null ],
+    [ "bCenterWindow", "d0/d84/class_m_w_p_f_frame.html#a084d14d9d72365b80bf6985c7e57ab0b", null ],
+    [ "bModalComplete", "d0/d84/class_m_w_p_f_frame.html#ab849066838c12cdda685bbd416f5b8bd", null ],
+    [ "bResizeable", "d0/d84/class_m_w_p_f_frame.html#af1d184a5d4c3a2fc7bfeb3c61fc28cca", null ],
+    [ "bUseSaveLayout", "d0/d84/class_m_w_p_f_frame.html#aa5816d39955409fd0d6bf5d74bce555f", null ],
+    [ "ContextName", "d0/d84/class_m_w_p_f_frame.html#aeea9f841e09d2808292e265b42eade0d", null ],
+    [ "DialogResult", "d0/d84/class_m_w_p_f_frame.html#a8215a9420ebd1a3b255ab03fb26f3e28", null ],
+    [ "EventBorder", "d0/d84/class_m_w_p_f_frame.html#aeec894c2f8e8de35ced268fb76c9d26a", null ],
+    [ "HelpURL", "d0/d84/class_m_w_p_f_frame.html#aca43ba9432e904278548770192370888", null ],
+    [ "WxDialog", "d0/d84/class_m_w_p_f_frame.html#ac3c656f96660d3f7e883af4e8b107343", null ]
+];

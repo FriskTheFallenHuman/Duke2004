@@ -1,0 +1,25 @@
+var struct_f_dynamic_trail2_emitter_replay_data =
+[
+    [ "FDynamicTrail2EmitterReplayData", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a88ebdd29ad5dbc68a0516a408673a156", null ],
+    [ "Serialize", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#af743224e6b9db41d2962b546b20882c9", null ],
+    [ "CurrentSourcePosition", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#ad3f0da13ec26c4368ee99f6254fcfad2", null ],
+    [ "IndexCount", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#aa4b008443013eaabe1cb1d82dc117e0f", null ],
+    [ "IndexStride", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a7dec93835e31aec35d1ba67e38c5d468", null ],
+    [ "LastSourcePosition", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a960b5a767a0ad173faea24bd6934e743", null ],
+    [ "LastSpawnPosition", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a97575cdcd15d12cd010b84838e4a8021", null ],
+    [ "LastSpawnTangent", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#ab08bfd6ffae614ed1be1db8a111e203c", null ],
+    [ "ParticleSourceOffset", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a04780867247a5c142f7849a26d2b1f9d", null ],
+    [ "PrimitiveCount", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a5494a689c1531e318fc75bc1d4a1dfca", null ],
+    [ "Sheets", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a8ff7c998cbf1be8f1482a8a9a437e438", null ],
+    [ "SourceDistanceTravelled", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a07858c9dd0e0b42e623fa940dd014583", null ],
+    [ "SourceOffsets", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#abdf58ef891400553b6508c656f765e31", null ],
+    [ "SourcePosition", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#aaf07768ad7c58722eeffe1a9f2a1ea54", null ],
+    [ "TaperValuesOffset", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a98a7bff890790e549b774876631966c5", null ],
+    [ "TessFactor", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a0db7858ff544362e07dc9182eb454593", null ],
+    [ "TessFactorDistance", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a34450398277d39ce682da721c8ef1308", null ],
+    [ "TessStrength", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#acc1d57af70315084205b61d2536ef1f4", null ],
+    [ "TrailCount", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a3400cb813da81a0c5bb5c2ebbac53dd9", null ],
+    [ "TrailDataOffset", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#ac293c7d1a80761a402b3030171f91de1", null ],
+    [ "TrailSpawnTimes", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a3a0b7d6a5b3b45a041f560e914340b7e", null ],
+    [ "VertexCount", "d9/d14/struct_f_dynamic_trail2_emitter_replay_data.html#a84b48e0dabe4b7037bb838f61fb87ae9", null ]
+];

@@ -1,0 +1,37 @@
+var class_wx_dlg_new_generic =
+[
+    [ "EFontControlIDs", "df/daf/class_wx_dlg_new_generic.html#ab325e278d1991fa262d1d7c6d016f56e", [
+      [ "ID_CHOOSE_FONT", "df/daf/class_wx_dlg_new_generic.html#ab325e278d1991fa262d1d7c6d016f56ea044cf2dc6fed2aa845b227636be0ca82", null ],
+      [ "IDCB_FACTORY", "df/daf/class_wx_dlg_new_generic.html#ab325e278d1991fa262d1d7c6d016f56ea001aeef815457101d5aff3bfa7bb5630", null ],
+      [ "ID_PKGGRPNAME", "df/daf/class_wx_dlg_new_generic.html#ab325e278d1991fa262d1d7c6d016f56ea1e408f71f7e5faaa2a99a364971012a3", null ],
+      [ "ID_PROPERTY_WINDOW", "df/daf/class_wx_dlg_new_generic.html#ab325e278d1991fa262d1d7c6d016f56ea6039d917fc7f6c9f3955001f91cc7818", null ]
+    ] ],
+    [ "WxDlgNewGeneric", "df/daf/class_wx_dlg_new_generic.html#a77db410d70073db0cf7e192fe29b747d", null ],
+    [ "AppendFontControls", "df/daf/class_wx_dlg_new_generic.html#a15ee6d29e3e013922db980f0c55a7962", null ],
+    [ "GetCreatedObject", "df/daf/class_wx_dlg_new_generic.html#a141f3766180749318c54ce6e50f260d6", null ],
+    [ "GetFactoryClass", "df/daf/class_wx_dlg_new_generic.html#af2cbc7330083eb5c7432347afb3cb965", null ],
+    [ "GetGroupName", "df/daf/class_wx_dlg_new_generic.html#a79b410377bf12e28c8a9e6e827b02e2f", null ],
+    [ "GetObjectName", "df/daf/class_wx_dlg_new_generic.html#a678c1866a5394122bc8570de5c443270", null ],
+    [ "GetPackageName", "df/daf/class_wx_dlg_new_generic.html#aaeb5fa72bd9a940459be7d0169b4e1b9", null ],
+    [ "GetPackages", "df/daf/class_wx_dlg_new_generic.html#aed856fcc9a819d1f6d2dd55c3f216cce", null ],
+    [ "OnChooseFont", "df/daf/class_wx_dlg_new_generic.html#a5842e91e9a212cd2322d6c0d78ec97d9", null ],
+    [ "OnFactorySelChange", "df/daf/class_wx_dlg_new_generic.html#a5c798a733a88f830a6d98ce1611b5254", null ],
+    [ "RemoveFontControls", "df/daf/class_wx_dlg_new_generic.html#a6ab5e2f273c7af4a7b3f2e1ed786ed14", null ],
+    [ "Serialize", "df/daf/class_wx_dlg_new_generic.html#a8b86d3fd2c90d576df5ff0b090e6a440", null ],
+    [ "ShowModal", "df/daf/class_wx_dlg_new_generic.html#aa45ef7caeb2ab07732ba9aca41366c28", null ],
+    [ "Validate", "df/daf/class_wx_dlg_new_generic.html#aea28ad4d8cbaa39eb068d5de15ec4289", null ],
+    [ "BrowsableObjectTypeList", "df/daf/class_wx_dlg_new_generic.html#a33aab83851d1b61b47d2a5ba56e07478", null ],
+    [ "ChooseFontButton", "df/daf/class_wx_dlg_new_generic.html#a8a55cabc1320b8b5d65566bd62f53c1d", null ],
+    [ "CreatedObject", "df/daf/class_wx_dlg_new_generic.html#a8d3d8fcfbf2e3110e73aa7b87a039d29", null ],
+    [ "Factory", "df/daf/class_wx_dlg_new_generic.html#a70cbc4b09865d31a831bf290f6c26023", null ],
+    [ "FactoryCombo", "df/daf/class_wx_dlg_new_generic.html#aef715d8c2c3ae66f5be76befdee4acd3", null ],
+    [ "FactorySizer", "df/daf/class_wx_dlg_new_generic.html#acb005429917b169bc85ea0f740ee50fc", null ],
+    [ "FontSizer", "df/daf/class_wx_dlg_new_generic.html#a19c821e585a2cf3854b9ca8406038fd9", null ],
+    [ "FontStaticText", "df/daf/class_wx_dlg_new_generic.html#ab4f10e8019f75ac4b79eac2c20edc0db", null ],
+    [ "Group", "df/daf/class_wx_dlg_new_generic.html#a6e7501236fc185e34edb047e708bcd93", null ],
+    [ "Name", "df/daf/class_wx_dlg_new_generic.html#acfc4b66aa15d6cadef5a180e8cb85f26", null ],
+    [ "Package", "df/daf/class_wx_dlg_new_generic.html#a15da2cb1b665e43c3a2a548cbbacd5c9", null ],
+    [ "PGNCtrl", "df/daf/class_wx_dlg_new_generic.html#a40f807569c0896ea079354dd6613ac22", null ],
+    [ "PGNSizer", "df/daf/class_wx_dlg_new_generic.html#ad7e25e0136fd3cbd60b62200913b0c98", null ],
+    [ "PropertyWindow", "df/daf/class_wx_dlg_new_generic.html#ae6ead00584e3b6be59e17cfc0ba4b9bc", null ]
+];

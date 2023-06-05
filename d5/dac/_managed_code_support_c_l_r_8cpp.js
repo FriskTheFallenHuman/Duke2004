@@ -1,0 +1,26 @@
+var _managed_code_support_c_l_r_8cpp =
+[
+    [ "CreateVisualFromXaml", "d5/dac/_managed_code_support_c_l_r_8cpp.html#a4e76aafaaae62439c35dd701b64dd030", null ],
+    [ "CreateWPFWindowFromVisual", "d5/dac/_managed_code_support_c_l_r_8cpp.html#af8c9c51f302851e4c057a2c30eed6985", null ],
+    [ "CreateWPFWindowFromXaml", "d5/dac/_managed_code_support_c_l_r_8cpp.html#a5d795e3805dffd3467d4dfbfac5d934d", null ],
+    [ "ExtractPackageName", "d5/dac/_managed_code_support_c_l_r_8cpp.html#ab3592f58cc9a65696b092f356ce9699a", null ],
+    [ "FNameToString", "d5/dac/_managed_code_support_c_l_r_8cpp.html#aac0bb005add097db7f085f446d5d5de6", null ],
+    [ "GuardedMainWrapper", "d5/dac/_managed_code_support_c_l_r_8cpp.html#ad864f941b3e52a653f8a4078c4e7416f", null ],
+    [ "IsAssetValidForLoading", "d5/dac/_managed_code_support_c_l_r_8cpp.html#af8a4e6a6d0d3a14968b19924785f678c", null ],
+    [ "IsAssetValidForPlacing", "d5/dac/_managed_code_support_c_l_r_8cpp.html#aa63e572bfae1737a655dc7ba6a5a8606", null ],
+    [ "IsAssetValidForTagging", "d5/dac/_managed_code_support_c_l_r_8cpp.html#a3e654575b75c3086881fc1586efc341d", null ],
+    [ "IsMapPackageAsset", "d5/dac/_managed_code_support_c_l_r_8cpp.html#ad81d2c55a71d3ed0eecee9f8c9174614", null ],
+    [ "IsMapPackageAsset", "d5/dac/_managed_code_support_c_l_r_8cpp.html#ac37efde841e3d9a4a86ff773d0c7b8b2", null ],
+    [ "IsPackageValidForTree", "d5/dac/_managed_code_support_c_l_r_8cpp.html#abd26d929b58bab9f66ea45c331f9212a", null ],
+    [ "LocalizeContentRecursively", "d5/dac/_managed_code_support_c_l_r_8cpp.html#abed234e0262cb0f6e3b8ab5fdb35470b", null ],
+    [ "LocalizeString", "d5/dac/_managed_code_support_c_l_r_8cpp.html#a74616e61a69ec3dc4f7c394234d96a7f", null ],
+    [ "LogWarningMessage", "d5/dac/_managed_code_support_c_l_r_8cpp.html#ac450837b97d9358511836e4ab9776e44", null ],
+    [ "LogWarningMessage", "d5/dac/_managed_code_support_c_l_r_8cpp.html#a524cade558af46d018f9cb2a4c23312f", null ],
+    [ "ManagedGuardedMain", "d5/dac/_managed_code_support_c_l_r_8cpp.html#aaa0812f278f8dee0ac3575810d406f77", null ],
+    [ "ToColor", "d5/dac/_managed_code_support_c_l_r_8cpp.html#a50cff4b566e8a7b37e6b50d9cb3c409a", null ],
+    [ "ToFName", "d5/dac/_managed_code_support_c_l_r_8cpp.html#ae7d1ac7c9d88375a16f4cf6b16677ccb", null ],
+    [ "ToFString", "d5/dac/_managed_code_support_c_l_r_8cpp.html#a093a3ac1c593d462cd9b0d997018add0", null ],
+    [ "ToFStringArray", "d5/dac/_managed_code_support_c_l_r_8cpp.html#aad3361ed43ede8473fb4a9635322f933", null ],
+    [ "ToString", "d5/dac/_managed_code_support_c_l_r_8cpp.html#a981159110feabc7fed19563216cfe7e1", null ],
+    [ "ToStringArray", "d5/dac/_managed_code_support_c_l_r_8cpp.html#a162ee43c57932987d6a634a1c303cb91", null ]
+];

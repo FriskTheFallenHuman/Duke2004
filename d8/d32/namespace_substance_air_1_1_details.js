@@ -1,0 +1,26 @@
+var namespace_substance_air_1_1_details =
+[
+    [ "Sync", "dd/dda/namespace_substance_air_1_1_details_1_1_sync.html", "dd/dda/namespace_substance_air_1_1_details_1_1_sync" ],
+    [ "Computation", "d1/dfd/class_substance_air_1_1_details_1_1_computation.html", "d1/dfd/class_substance_air_1_1_details_1_1_computation" ],
+    [ "DeltaState", "d5/dfb/class_substance_air_1_1_details_1_1_delta_state.html", "d5/dfb/class_substance_air_1_1_details_1_1_delta_state" ],
+    [ "DuplicateJob", "d1/db8/struct_substance_air_1_1_details_1_1_duplicate_job.html", "d1/db8/struct_substance_air_1_1_details_1_1_duplicate_job" ],
+    [ "Engine", "df/dcf/class_substance_air_1_1_details_1_1_engine.html", "df/dcf/class_substance_air_1_1_details_1_1_engine" ],
+    [ "GraphBinary", "d0/d37/struct_substance_air_1_1_details_1_1_graph_binary.html", "d0/d37/struct_substance_air_1_1_details_1_1_graph_binary" ],
+    [ "GraphState", "d4/dca/class_substance_air_1_1_details_1_1_graph_state.html", "d4/dca/class_substance_air_1_1_details_1_1_graph_state" ],
+    [ "ImageInputToken", "df/d42/struct_substance_air_1_1_details_1_1_image_input_token.html", "df/d42/struct_substance_air_1_1_details_1_1_image_input_token" ],
+    [ "InputState", "d7/dda/struct_substance_air_1_1_details_1_1_input_state.html", "d7/dda/struct_substance_air_1_1_details_1_1_input_state" ],
+    [ "LinkContext", "d3/df7/struct_substance_air_1_1_details_1_1_link_context.html", "d3/df7/struct_substance_air_1_1_details_1_1_link_context" ],
+    [ "LinkData", "d9/d6f/class_substance_air_1_1_details_1_1_link_data.html", "d9/d6f/class_substance_air_1_1_details_1_1_link_data" ],
+    [ "LinkDataAssembly", "d6/d2a/class_substance_air_1_1_details_1_1_link_data_assembly.html", "d6/d2a/class_substance_air_1_1_details_1_1_link_data_assembly" ],
+    [ "LinkDataStacking", "d2/dae/class_substance_air_1_1_details_1_1_link_data_stacking.html", "d2/dae/class_substance_air_1_1_details_1_1_link_data_stacking" ],
+    [ "LinkGraphs", "d0/d27/struct_substance_air_1_1_details_1_1_link_graphs.html", "d0/d27/struct_substance_air_1_1_details_1_1_link_graphs" ],
+    [ "OutputsFilter", "d8/d05/struct_substance_air_1_1_details_1_1_outputs_filter.html", "d8/d05/struct_substance_air_1_1_details_1_1_outputs_filter" ],
+    [ "RendererImpl", "db/d99/class_substance_air_1_1_details_1_1_renderer_impl.html", "db/d99/class_substance_air_1_1_details_1_1_renderer_impl" ],
+    [ "RenderJob", "d7/dd7/class_substance_air_1_1_details_1_1_render_job.html", "d7/dd7/class_substance_air_1_1_details_1_1_render_job" ],
+    [ "RenderPushIO", "d1/d47/class_substance_air_1_1_details_1_1_render_push_i_o.html", "d1/d47/class_substance_air_1_1_details_1_1_render_push_i_o" ],
+    [ "RenderToken", "db/d06/class_substance_air_1_1_details_1_1_render_token.html", "db/d06/class_substance_air_1_1_details_1_1_render_token" ],
+    [ "States", "d5/d5c/class_substance_air_1_1_details_1_1_states.html", "d5/d5c/class_substance_air_1_1_details_1_1_states" ],
+    [ "ImageInputPtr", "d8/d32/namespace_substance_air_1_1_details.html#a010264539131bfd1e897a8e163b9d183", null ],
+    [ "ImageInputPtrs", "d8/d32/namespace_substance_air_1_1_details.html#ac3ebf30a9433106cbc235ba8d8cdec8b", null ],
+    [ "gInstanceUid", "d8/d32/namespace_substance_air_1_1_details.html#a17b86cd3cbb3fc7eb8b6392f1953f397", null ]
+];

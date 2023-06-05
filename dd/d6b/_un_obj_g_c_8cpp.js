@@ -1,0 +1,25 @@
+var _un_obj_g_c_8cpp =
+[
+    [ "FArchiveTagUsedNonRecursive", "d1/d42/class_f_archive_tag_used_non_recursive.html", "d1/d42/class_f_archive_tag_used_non_recursive" ],
+    [ "FArchiveRealtimeGC", "d8/d5e/class_f_archive_realtime_g_c.html", "d8/d5e/class_f_archive_realtime_g_c" ],
+    [ "FArchiveRealtimeGC::FStackEntry", "dc/d78/struct_f_archive_realtime_g_c_1_1_f_stack_entry.html", "dc/d78/struct_f_archive_realtime_g_c_1_1_f_stack_entry" ],
+    [ "FGCReferenceFixedArrayTokenHelper", "d6/d4e/struct_f_g_c_reference_fixed_array_token_helper.html", "d6/d4e/struct_f_g_c_reference_fixed_array_token_helper" ],
+    [ "CATCH_GC_CRASHES", "dd/d6b/_un_obj_g_c_8cpp.html#a846f7c1e0b70d06bcb987ae800634f46", null ],
+    [ "ENABLE_GC_DEBUG_OUTPUT", "dd/d6b/_un_obj_g_c_8cpp.html#a23c6cdd0ffa58aa833eccebb4df06cfc", null ],
+    [ "PERF_DETAILED_PER_CLASS_GC_STATS", "dd/d6b/_un_obj_g_c_8cpp.html#a1289435015accc2500c26f99c45864b7", null ],
+    [ "REFERENCE_INFO", "dd/d6b/_un_obj_g_c_8cpp.html#adae46278b38cc417ae5a06e7dbfb0ab3", null ],
+    [ "VERIFY_DISREGARD_GC_ASSUMPTIONS", "dd/d6b/_un_obj_g_c_8cpp.html#a2d3df781422c085b8445a1eb24059c0d", null ],
+    [ "EditorPostReachabilityAnalysisCallbackType", "dd/d6b/_un_obj_g_c_8cpp.html#a8d34c06370170d767f87440c7257e1c6", null ],
+    [ "FlushAsyncLoadingWrapper", "dd/d6b/_un_obj_g_c_8cpp.html#a879c493969dd3ece889d7fad382e695b", null ],
+    [ "GRegisterPostGCCallback", "dd/d6b/_un_obj_g_c_8cpp.html#a81bebad9aa858ca98d37c6c14dea4814", null ],
+    [ "GRegisterPreGCCallback", "dd/d6b/_un_obj_g_c_8cpp.html#a9cfe760c6a6bfd433ab42a8fba1a65b3", null ],
+    [ "HandleObjectReference", "dd/d6b/_un_obj_g_c_8cpp.html#a84b64f8d45b24ceba49d0488b45682d4", null ],
+    [ "IMPLEMENT_PRE_GARBAGE_COLLECTION_CALLBACK", "dd/d6b/_un_obj_g_c_8cpp.html#a4b0e0cd1bfd283f57ed84e29959f6b81", null ],
+    [ "PREFETCH_OBJECT_ARRAY", "dd/d6b/_un_obj_g_c_8cpp.html#af55dc76952f2457ac80923286f59c722", null ],
+    [ "EditorPostReachabilityAnalysisCallback", "dd/d6b/_un_obj_g_c_8cpp.html#aecd759a149d206c9918009ce19f467a6", null ],
+    [ "GObjectCountDuringLastMarkPhase", "dd/d6b/_un_obj_g_c_8cpp.html#a22d5c9fc1e655dd042d418210fc4f105", null ],
+    [ "GPostGarbageCollectionCallbacks", "dd/d6b/_un_obj_g_c_8cpp.html#a3c7d59470459578590a5545d29009e9e", null ],
+    [ "GPreGarbageCollectionCallbacks", "dd/d6b/_un_obj_g_c_8cpp.html#aa617e36fe21e53c5139387f2eacbd167", null ],
+    [ "GPurgedObjectCountSinceLastMarkPhase", "dd/d6b/_un_obj_g_c_8cpp.html#abc0b0464ab0cb0e8469db8eaa178a6a0", null ],
+    [ "GShouldVerifyGCAssumptions", "dd/d6b/_un_obj_g_c_8cpp.html#a9073a4c88d381a1d87c9b0eec613bc11", null ]
+];

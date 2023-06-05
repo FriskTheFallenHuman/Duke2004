@@ -1,0 +1,25 @@
+var _wintab_support_8h =
+[
+    [ "FWinTab", "d5/d71/struct_f_win_tab.html", "d5/d71/struct_f_win_tab" ],
+    [ "NOFIX32", "d8/db6/_wintab_support_8h.html#af79793979cd30937ab674cc73742e6a1", null ],
+    [ "PACKETNAME", "d8/db6/_wintab_support_8h.html#ac545c532d76255e7d718683d6cbdbc2a", null ],
+    [ "PRESSURE_PACKETDATA", "d8/db6/_wintab_support_8h.html#a5ac30ccad503dd60f5a3b56548958059", null ],
+    [ "PRESSURE_PACKETMODE", "d8/db6/_wintab_support_8h.html#a145d155656da28022df9b2adac563063", null ],
+    [ "WTCLOSE", "d8/db6/_wintab_support_8h.html#a7749131cd3097bf4ec0a59f31f059b94", null ],
+    [ "WTCONFIG", "d8/db6/_wintab_support_8h.html#ab369b5db264917ff56ef255d780ba629", null ],
+    [ "WTDATAPEEK", "d8/db6/_wintab_support_8h.html#a573a7362b8a62da38f8a0a73aa720358", null ],
+    [ "WTENABLE", "d8/db6/_wintab_support_8h.html#a2c407ce948b29645f60c592ab786983a", null ],
+    [ "WTEXTGET", "d8/db6/_wintab_support_8h.html#a21f2fdb7f690ba77923b12ab494897df", null ],
+    [ "WTEXTSET", "d8/db6/_wintab_support_8h.html#a87911ac07ce11e740cd54e42e4b36e92", null ],
+    [ "WTGETA", "d8/db6/_wintab_support_8h.html#af947edef6c70bc6efdd736b8505f97ee", null ],
+    [ "WTINFOA", "d8/db6/_wintab_support_8h.html#a4a9b2092e5fd8437897ace33bf23c91d", null ],
+    [ "WTOPENA", "d8/db6/_wintab_support_8h.html#af70775ced3977d6b25cc927d7301783a", null ],
+    [ "WTOVERLAP", "d8/db6/_wintab_support_8h.html#a10b7d0d423aa216d99cbcfb526678b7f", null ],
+    [ "WTPACKET", "d8/db6/_wintab_support_8h.html#a409a6f7c494ae2edf4aee17d6b2d76ad", null ],
+    [ "WTPACKETSGET", "d8/db6/_wintab_support_8h.html#abb872e674d3ac841c1bd9ca7e1d03304", null ],
+    [ "WTQUEUESIZESET", "d8/db6/_wintab_support_8h.html#aa2de3d80fea5efd5466acdbf6d0d94e1", null ],
+    [ "WTRESTORE", "d8/db6/_wintab_support_8h.html#a0e331eff33775111651613c3de29b970", null ],
+    [ "WTSAVE", "d8/db6/_wintab_support_8h.html#a90646b645af5d0b71a6c1296a966560f", null ],
+    [ "WTSETA", "d8/db6/_wintab_support_8h.html#a3ec642b59400074d88c97d05788a701e", null ],
+    [ "GWinTab", "d8/db6/_wintab_support_8h.html#a5ada8cd3db110093e0655659ab332f53", null ]
+];

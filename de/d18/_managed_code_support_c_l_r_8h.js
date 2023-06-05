@@ -1,0 +1,27 @@
+var _managed_code_support_c_l_r_8h =
+[
+    [ "MNativePointer< T >", "db/d69/struct_m_native_pointer.html", "db/d69/struct_m_native_pointer" ],
+    [ "MScopedNativePointer< T >", "d1/d07/struct_m_scoped_native_pointer.html", "d1/d07/struct_m_scoped_native_pointer" ],
+    [ "MEnumerableTArrayWrapper< ElementWrapperType, ElementType >", "d0/d5f/class_m_enumerable_t_array_wrapper.html", "d0/d5f/class_m_enumerable_t_array_wrapper" ],
+    [ "CreateVisualFromXaml", "de/d18/_managed_code_support_c_l_r_8h.html#a4e76aafaaae62439c35dd701b64dd030", null ],
+    [ "CreateWPFWindowFromVisual", "de/d18/_managed_code_support_c_l_r_8h.html#af8c9c51f302851e4c057a2c30eed6985", null ],
+    [ "CreateWPFWindowFromXaml", "de/d18/_managed_code_support_c_l_r_8h.html#a5d795e3805dffd3467d4dfbfac5d934d", null ],
+    [ "ExtractPackageName", "de/d18/_managed_code_support_c_l_r_8h.html#ab3592f58cc9a65696b092f356ce9699a", null ],
+    [ "FNameToString", "de/d18/_managed_code_support_c_l_r_8h.html#aac0bb005add097db7f085f446d5d5de6", null ],
+    [ "IsAssetValidForLoading", "de/d18/_managed_code_support_c_l_r_8h.html#af8a4e6a6d0d3a14968b19924785f678c", null ],
+    [ "IsAssetValidForPlacing", "de/d18/_managed_code_support_c_l_r_8h.html#aa63e572bfae1737a655dc7ba6a5a8606", null ],
+    [ "IsAssetValidForTagging", "de/d18/_managed_code_support_c_l_r_8h.html#a3e654575b75c3086881fc1586efc341d", null ],
+    [ "IsMapPackageAsset", "de/d18/_managed_code_support_c_l_r_8h.html#ad81d2c55a71d3ed0eecee9f8c9174614", null ],
+    [ "IsMapPackageAsset", "de/d18/_managed_code_support_c_l_r_8h.html#ac37efde841e3d9a4a86ff773d0c7b8b2", null ],
+    [ "IsPackageValidForTree", "de/d18/_managed_code_support_c_l_r_8h.html#abd26d929b58bab9f66ea45c331f9212a", null ],
+    [ "LocalizeContentRecursively", "de/d18/_managed_code_support_c_l_r_8h.html#abed234e0262cb0f6e3b8ab5fdb35470b", null ],
+    [ "LocalizeString", "de/d18/_managed_code_support_c_l_r_8h.html#a74616e61a69ec3dc4f7c394234d96a7f", null ],
+    [ "LogWarningMessage", "de/d18/_managed_code_support_c_l_r_8h.html#ac450837b97d9358511836e4ab9776e44", null ],
+    [ "LogWarningMessage", "de/d18/_managed_code_support_c_l_r_8h.html#a524cade558af46d018f9cb2a4c23312f", null ],
+    [ "ToColor", "de/d18/_managed_code_support_c_l_r_8h.html#a50cff4b566e8a7b37e6b50d9cb3c409a", null ],
+    [ "ToFName", "de/d18/_managed_code_support_c_l_r_8h.html#ae7d1ac7c9d88375a16f4cf6b16677ccb", null ],
+    [ "ToFString", "de/d18/_managed_code_support_c_l_r_8h.html#a093a3ac1c593d462cd9b0d997018add0", null ],
+    [ "ToFStringArray", "de/d18/_managed_code_support_c_l_r_8h.html#aad3361ed43ede8473fb4a9635322f933", null ],
+    [ "ToString", "de/d18/_managed_code_support_c_l_r_8h.html#a981159110feabc7fed19563216cfe7e1", null ],
+    [ "ToStringArray", "de/d18/_managed_code_support_c_l_r_8h.html#a162ee43c57932987d6a634a1c303cb91", null ]
+];

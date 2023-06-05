@@ -1,0 +1,28 @@
+var struct_f_comparison_results =
+[
+    [ "BuildEnumDataForBinary", "d2/d10/struct_f_comparison_results.html#a08f2ed0066a00a8b6318ab8f9e14b9f7", null ],
+    [ "BuildObjectDataForBinary", "d2/d10/struct_f_comparison_results.html#a1b36ca22abe3f83571232a596dd8329e", null ],
+    [ "BuildScriptDataForBinary", "d2/d10/struct_f_comparison_results.html#af8565b007ccb59fc5f8dc3cf47564590", null ],
+    [ "BuildStructureForBinary", "d2/d10/struct_f_comparison_results.html#a133692d5b807aea3637a428d541f5778", null ],
+    [ "DisplayResults", "d2/d10/struct_f_comparison_results.html#a18db4bb0ceae3ee5a86a07f974770170", null ],
+    [ "ExportModifiedDefaults", "d2/d10/struct_f_comparison_results.html#afa5f48fae6c069bcbeed295a53fc56af", null ],
+    [ "ExportModifiedEnums", "d2/d10/struct_f_comparison_results.html#a4dfc4a1ff5413a54028b7efc3a514d66", null ],
+    [ "ExportModifiedScript", "d2/d10/struct_f_comparison_results.html#a4714a8df0c4584a2d8c9e36d244b9ceb", null ],
+    [ "ExportNewExports", "d2/d10/struct_f_comparison_results.html#a6f4f67839b56b3d2168e420dbd067056", null ],
+    [ "ExportObjectData", "d2/d10/struct_f_comparison_results.html#a1459763ccce995247d2fc2566b06f604", null ],
+    [ "ExportPackageData", "d2/d10/struct_f_comparison_results.html#a55c170fb6c17a62bd7d2aa98bc83cf6b", null ],
+    [ "ExportResults", "d2/d10/struct_f_comparison_results.html#abbcdd3720a1fcb9b7f8228c2bc0c0b62", null ],
+    [ "operator UBOOL", "d2/d10/struct_f_comparison_results.html#a6e13763cf7f449f9054c5abc1b3b37a4", null ],
+    [ "SetPackageName", "d2/d10/struct_f_comparison_results.html#a71af6de966d805f0d954c421da1977eb", null ],
+    [ "DefaultObjectsModified", "d2/d10/struct_f_comparison_results.html#a198d4bf67f2f62dccbc55b22b259e055", null ],
+    [ "ExportsAdded", "d2/d10/struct_f_comparison_results.html#a6ff1193a2ec8730973f66625f5f75bf0", null ],
+    [ "ImportsAdded", "d2/d10/struct_f_comparison_results.html#a635b1027908b405ed45622db248c6636", null ],
+    [ "ModifiedEnums", "d2/d10/struct_f_comparison_results.html#aa373df34b1ca9a44a49ebfb448c09be8", null ],
+    [ "NamesAdded", "d2/d10/struct_f_comparison_results.html#a6cddf249a9c4a269fe33f4770542cc05", null ],
+    [ "OriginalExportCount", "d2/d10/struct_f_comparison_results.html#a62a1a42c97c9f801ec5b547c8ed59baa", null ],
+    [ "PackageLinker", "d2/d10/struct_f_comparison_results.html#a81d22981ca38b323706e184e1772bd26", null ],
+    [ "PackageName", "d2/d10/struct_f_comparison_results.html#af4277aab665a8995caebaf199ef30e4c", null ],
+    [ "StructsAdded", "d2/d10/struct_f_comparison_results.html#a5c4cd70e3c1aba1407652a34fe00f5ea", null ],
+    [ "StructsModified", "d2/d10/struct_f_comparison_results.html#ac2a8a2ec630b558f1f5af9ce1014174e", null ],
+    [ "StructsRemoved", "d2/d10/struct_f_comparison_results.html#abfd0012235ee865ef4430f5458f61a1c", null ]
+];

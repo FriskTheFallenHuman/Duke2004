@@ -1,0 +1,26 @@
+var struct_t_landscape_edit_cache =
+[
+    [ "TLandscapeEditCache", "d6/d88/struct_t_landscape_edit_cache.html#a39963a8f06e3eea6737c3684e220b0cb", null ],
+    [ "CacheData", "d6/d88/struct_t_landscape_edit_cache.html#a5688ea9007efba581b13395122d65711", null ],
+    [ "CacheOriginalData", "d6/d88/struct_t_landscape_edit_cache.html#a6765c9f8a50343da62abfddeff620f70", null ],
+    [ "Flush", "d6/d88/struct_t_landscape_edit_cache.html#a75b1cdbc15b5b1d653e994a126a10e69", null ],
+    [ "GetCachedData", "d6/d88/struct_t_landscape_edit_cache.html#a5c7005a347c6f41959a3d9527e77c835", null ],
+    [ "GetNormal", "d6/d88/struct_t_landscape_edit_cache.html#a4b09d600283cea58c1484723f9de231d", null ],
+    [ "GetOriginalData", "d6/d88/struct_t_landscape_edit_cache.html#a42f5aec92f7e55df587c244de57e42ab", null ],
+    [ "GetValue", "d6/d88/struct_t_landscape_edit_cache.html#a5342eacf70a56ea300c18dd952c674b2", null ],
+    [ "GetValueRef", "d6/d88/struct_t_landscape_edit_cache.html#a884005312bc253feda5cec726fec526f", null ],
+    [ "SetCachedData", "d6/d88/struct_t_landscape_edit_cache.html#aed7238744a38fe035bdb1a095c5d6768", null ],
+    [ "SetValue", "d6/d88/struct_t_landscape_edit_cache.html#a360c974fbfaee54ffcc4b7dc008bf2fb", null ],
+    [ "CachedData", "d6/d88/struct_t_landscape_edit_cache.html#a1db04de4d95e64ba8b3db4cee18c4f4a", null ],
+    [ "CachedX1", "d6/d88/struct_t_landscape_edit_cache.html#ab7678b8fa4ef4ca838223878615c1298", null ],
+    [ "CachedX2", "d6/d88/struct_t_landscape_edit_cache.html#a5e08846b9c77e9e7f9f8f5bec9447b73", null ],
+    [ "CachedY1", "d6/d88/struct_t_landscape_edit_cache.html#a4abc071e8e95c82c6c1bad52a138eb2d", null ],
+    [ "CachedY2", "d6/d88/struct_t_landscape_edit_cache.html#a861138745adbcce33e35fbd7a608aa60", null ],
+    [ "DataAccess", "d6/d88/struct_t_landscape_edit_cache.html#a8c4c578e564e381f3ba2855e2117570d", null ],
+    [ "OriginalData", "d6/d88/struct_t_landscape_edit_cache.html#aa8fb11d3f689a91091aba513774123f0", null ],
+    [ "Valid", "d6/d88/struct_t_landscape_edit_cache.html#ae2e9c759d440c2a104f222fb88da92fb", null ],
+    [ "ValidX1", "d6/d88/struct_t_landscape_edit_cache.html#a2ba655e35a315d60e1648929b68a3dd4", null ],
+    [ "ValidX2", "d6/d88/struct_t_landscape_edit_cache.html#a2cdfb0f0ed2245fe033ade5a253913d2", null ],
+    [ "ValidY1", "d6/d88/struct_t_landscape_edit_cache.html#a0cbc4096b8c5484a8678659aa6a48ef3", null ],
+    [ "ValidY2", "d6/d88/struct_t_landscape_edit_cache.html#a5f9663d028b8e5d80457dbac011f54e9", null ]
+];

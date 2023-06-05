@@ -1,0 +1,25 @@
+var struct_f_memory_allocation_stats =
+[
+    [ "FMemoryAllocationStats", "df/d34/struct_f_memory_allocation_stats.html#aa0544e041f839690f0f897e495ae6e61", null ],
+    [ "GetStatsNum", "df/d34/struct_f_memory_allocation_stats.html#a678af9bac63680ed47b47fab8702b2a3", null ],
+    [ "AllocatedTextureMemorySize", "df/d34/struct_f_memory_allocation_stats.html#a532c0b9876c6ae63536afdc50ffaa576", null ],
+    [ "AvailableTextureMemorySize", "df/d34/struct_f_memory_allocation_stats.html#ac022e004de9d7d9e35927833828e327e", null ],
+    [ "CPUAvailable", "df/d34/struct_f_memory_allocation_stats.html#a8a51f4e2d686da42172527702adb6e5c", null ],
+    [ "CPUSlack", "df/d34/struct_f_memory_allocation_stats.html#adb8f2d3a772867dccb351a43e371f122", null ],
+    [ "CPUUsed", "df/d34/struct_f_memory_allocation_stats.html#a5b2d51fc33f78e909d8803ff6f412ff0", null ],
+    [ "CPUWaste", "df/d34/struct_f_memory_allocation_stats.html#af7904979c07784db1066efe62ef261f5", null ],
+    [ "GPUAvailable", "df/d34/struct_f_memory_allocation_stats.html#a548b0680c926fc6d951a5b4d965a5458", null ],
+    [ "GPUSlack", "df/d34/struct_f_memory_allocation_stats.html#ada6081afba1255178b435981bed9cba4", null ],
+    [ "GPUUsed", "df/d34/struct_f_memory_allocation_stats.html#af28ce42e7819b9f689734a7806c88709", null ],
+    [ "GPUWaste", "df/d34/struct_f_memory_allocation_stats.html#a427c5f3cc053bc4b7fc27026c17dc586", null ],
+    [ "HostAvailable", "df/d34/struct_f_memory_allocation_stats.html#a261b2d6fa4d22ec201701a601dac00f6", null ],
+    [ "HostSlack", "df/d34/struct_f_memory_allocation_stats.html#ac544e3e966cdbd072948c7c30d4e25e3", null ],
+    [ "HostUsed", "df/d34/struct_f_memory_allocation_stats.html#ab20bf477937b9b296e19a612edebe35d", null ],
+    [ "HostWaste", "df/d34/struct_f_memory_allocation_stats.html#a58e7b1c3c63aac879dcaa9ebd7dceb60", null ],
+    [ "ImageSize", "df/d34/struct_f_memory_allocation_stats.html#acb4a51cbd59bde365a5e61d9dee51a8b", null ],
+    [ "OSOverhead", "df/d34/struct_f_memory_allocation_stats.html#af5c7d2062c02fb00ef57af3fa0df55de", null ],
+    [ "OSReportedFree", "df/d34/struct_f_memory_allocation_stats.html#a88038fe0978a2823203645f33dabdfd9", null ],
+    [ "OSReportedUsed", "df/d34/struct_f_memory_allocation_stats.html#a7985e248ced2b9c7bb97cf54af3be953", null ],
+    [ "TotalAllocated", "df/d34/struct_f_memory_allocation_stats.html#a89c491081276f88f9034eff30279e816", null ],
+    [ "TotalUsed", "df/d34/struct_f_memory_allocation_stats.html#a6cade9bb6034fa8ea18c699392fc1880", null ]
+];

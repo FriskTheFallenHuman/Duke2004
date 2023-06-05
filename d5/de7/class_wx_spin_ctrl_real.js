@@ -1,0 +1,25 @@
+var class_wx_spin_ctrl_real =
+[
+    [ "WxSpinCtrlReal", "d5/de7/class_wx_spin_ctrl_real.html#a493062b200572170cb76499ed645dbc4", null ],
+    [ "GetValue", "d5/de7/class_wx_spin_ctrl_real.html#ac20008dd3b7e76c169998cf353820d2b", null ],
+    [ "OnMouseEvent", "d5/de7/class_wx_spin_ctrl_real.html#ae755d9ad02e85ba53fa86268f3386a9a", null ],
+    [ "OnSize", "d5/de7/class_wx_spin_ctrl_real.html#a88d3e280a5c9d321cab644555b99296c", null ],
+    [ "OnSpin", "d5/de7/class_wx_spin_ctrl_real.html#a776a78e5ca87ccebcf45ead0c5a40196", null ],
+    [ "OnText", "d5/de7/class_wx_spin_ctrl_real.html#a04da46bc2778552635a0ac21c57f0b5b", null ],
+    [ "SetFixedIncrementAmount", "d5/de7/class_wx_spin_ctrl_real.html#afa8b28f67ed3d048a4b4b1705b34a806", null ],
+    [ "SetMaxValue", "d5/de7/class_wx_spin_ctrl_real.html#a941647f4b469f55f36d2e47348f5792f", null ],
+    [ "SetMinValue", "d5/de7/class_wx_spin_ctrl_real.html#a3a3bcf3d1239f8f3d2c18d977b911468", null ],
+    [ "SetValue", "d5/de7/class_wx_spin_ctrl_real.html#addae503031978ca2b5aa150c02fcc10c", null ],
+    [ "UpdatePropertyValue", "d5/de7/class_wx_spin_ctrl_real.html#ac9e4108d463fb0c2af93fd99a5831f82", null ],
+    [ "bFixedIncrement", "d5/de7/class_wx_spin_ctrl_real.html#a49c18714e39a2e7971bbc398f1e486a9", null ],
+    [ "BlankCursor", "d5/de7/class_wx_spin_ctrl_real.html#acb10233045aeea944c1b16632ff807c0", null ],
+    [ "ButtonSizer", "d5/de7/class_wx_spin_ctrl_real.html#a7ee34876a5055e56f24411c030efd803", null ],
+    [ "FixedIncrementAmount", "d5/de7/class_wx_spin_ctrl_real.html#a7e14083718a4ac9cafdf496900961b0a", null ],
+    [ "MaxValue", "d5/de7/class_wx_spin_ctrl_real.html#ad09f8f7ddeb334f757d945e26650a8f0", null ],
+    [ "MinValue", "d5/de7/class_wx_spin_ctrl_real.html#a40b57673d1c7f6ad28d8aab33468bc6a", null ],
+    [ "MouseDelta", "d5/de7/class_wx_spin_ctrl_real.html#a33bc6eeaac5a6666e18f02e5c2cae553", null ],
+    [ "MouseStartPoint", "d5/de7/class_wx_spin_ctrl_real.html#a15ead29b9a6d7e61e4e8c4dff97294bf", null ],
+    [ "StartValue", "d5/de7/class_wx_spin_ctrl_real.html#afe26e8bdc9354cadcaab2c474510cc33", null ],
+    [ "TextCtrl", "d5/de7/class_wx_spin_ctrl_real.html#a81bcb949b5640bf8981f0785b5358d54", null ],
+    [ "ValidatorStringValue", "d5/de7/class_wx_spin_ctrl_real.html#adf707e408c55c9ff72a45aeb6e23ab75", null ]
+];

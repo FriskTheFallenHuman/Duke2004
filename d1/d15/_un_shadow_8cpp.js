@@ -1,0 +1,26 @@
+var _un_shadow_8cpp =
+[
+    [ "NUM_STATIC_LIGHTING_UNUSED_THREADS", "d1/d15/_un_shadow_8cpp.html#a24344780e68178874a123679b0b229af", null ],
+    [ "IMPLEMENT_COMPARE_CONSTREF", "d1/d15/_un_shadow_8cpp.html#a998893223edd9786d4c2a8d626c126fc", null ],
+    [ "GAllowLightmapCropping", "d1/d15/_un_shadow_8cpp.html#ac9b78a695e803fe7db30115cde3310fe", null ],
+    [ "GAllowStreamingLightmaps", "d1/d15/_un_shadow_8cpp.html#a10e98626c618eaccf3a78a219ed8ba00", null ],
+    [ "GbLogAddingMappings", "d1/d15/_un_shadow_8cpp.html#ad42a879ae0a5fb77f41657d6ec0c3125", null ],
+    [ "GLightmapCounter", "d1/d15/_un_shadow_8cpp.html#a4e1c2fef5eb8291c815f648d47379882", null ],
+    [ "GLightmapTotalSize", "d1/d15/_un_shadow_8cpp.html#af442c0e50c514cf514fa931c1d1a58c3", null ],
+    [ "GLightmapTotalSize360", "d1/d15/_un_shadow_8cpp.html#a0c26fb4108f3e2af9497fabbf19127f0", null ],
+    [ "GLightmapTotalStreamingSize", "d1/d15/_un_shadow_8cpp.html#a38695b23f0836bc33ee7266146dcd09d", null ],
+    [ "GMaxLightmapRadius", "d1/d15/_un_shadow_8cpp.html#a76b9896a274a8d952642bf89823f5447", null ],
+    [ "GNumLightmapMappedTexels", "d1/d15/_un_shadow_8cpp.html#a4f0ec53d70ee64edba91dd1338fc32fa", null ],
+    [ "GNumLightmapTextures", "d1/d15/_un_shadow_8cpp.html#a9dc45f6220c413a5406ea86c95a7a8ba", null ],
+    [ "GNumLightmapTotalTexels", "d1/d15/_un_shadow_8cpp.html#aa3e272016633155247a5fd5d1d58be44", null ],
+    [ "GNumLightmapTotalTexelsNonPow2", "d1/d15/_un_shadow_8cpp.html#a5eaf0083303e4354aa5c69bb1e1fa5ce", null ],
+    [ "GNumLightmapUnmappedTexels", "d1/d15/_un_shadow_8cpp.html#a546f1faedb39c3030c211e3d12b819a3", null ],
+    [ "GNumShadowmapMappedTexels", "d1/d15/_un_shadow_8cpp.html#a70fda9ccaace4237ce7af3cacf649ee3", null ],
+    [ "GNumShadowmapTextures", "d1/d15/_un_shadow_8cpp.html#ae682cc7a8d1fc77a29f73bf98cb8a00c", null ],
+    [ "GNumShadowmapTotalTexels", "d1/d15/_un_shadow_8cpp.html#a4f958fb1b400bae7c289c17305cea098", null ],
+    [ "GNumShadowmapUnmappedTexels", "d1/d15/_un_shadow_8cpp.html#a09d4e8f3e4663b1619af00f03e024cae", null ],
+    [ "GShadowmapTotalSize", "d1/d15/_un_shadow_8cpp.html#afa34bd808c0500f12fe60dda8551d4ed", null ],
+    [ "GShadowmapTotalSize360", "d1/d15/_un_shadow_8cpp.html#a097e28338ad0bcf600f3e87f46de2a2d", null ],
+    [ "GShadowmapTotalStreamingSize", "d1/d15/_un_shadow_8cpp.html#a34e6072f06e805d600962a90fd32a100", null ],
+    [ "GSwarmDebugOptions", "d1/d15/_un_shadow_8cpp.html#a9569f2d5188c41f51f7e082592b2dd6b", null ]
+];

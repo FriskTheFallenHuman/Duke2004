@@ -1,0 +1,28 @@
+var class_u_swrve_analytics_windows =
+[
+    [ "BeginDestroy", "dd/df7/class_u_swrve_analytics_windows.html#a68ab83ab978bcb16a3620a89ff784aef", null ],
+    [ "EndSession", "dd/df7/class_u_swrve_analytics_windows.html#a0c4745cbe5bfb40e06e0c725e5fc1448", null ],
+    [ "GetSessionToken", "dd/df7/class_u_swrve_analytics_windows.html#af280e67f348deb747d593b7860e457dd", null ],
+    [ "Init", "dd/df7/class_u_swrve_analytics_windows.html#a3e03c0b64284020687e3d48ff65e5f54", null ],
+    [ "LogCurrencyGivenEvent", "dd/df7/class_u_swrve_analytics_windows.html#ac163208c27afe4b21f918755ad318e65", null ],
+    [ "LogCurrencyPurchaseEvent", "dd/df7/class_u_swrve_analytics_windows.html#ad58c46514ae4426d35a4d040b69a10a8", null ],
+    [ "LogErrorMessage", "dd/df7/class_u_swrve_analytics_windows.html#ab52b889e0afbbfe5442331da3ec07b58", null ],
+    [ "LogItemPurchaseEvent", "dd/df7/class_u_swrve_analytics_windows.html#aeffe0b54771948d9849a83c3f6c629e1", null ],
+    [ "LogStringEvent", "dd/df7/class_u_swrve_analytics_windows.html#a26489c8ced9947fc1df98a96bdd3d365", null ],
+    [ "LogStringEventParam", "dd/df7/class_u_swrve_analytics_windows.html#a03c5c032eca210cf7da1e0f1b367f58e", null ],
+    [ "LogStringEventParamArray", "dd/df7/class_u_swrve_analytics_windows.html#afbf8e093b4cc140bc7d0d80b641299b3", null ],
+    [ "LogUserAttributeUpdate", "dd/df7/class_u_swrve_analytics_windows.html#a25a674c91c9b7812e87f105cf868d22b", null ],
+    [ "LogUserAttributeUpdateArray", "dd/df7/class_u_swrve_analytics_windows.html#a56b5af20f615bb0989adf1e790cfacbd", null ],
+    [ "SendToSwrve", "dd/df7/class_u_swrve_analytics_windows.html#a3641ebe244c8362f2f04ab157591e790", null ],
+    [ "SendToSwrve", "dd/df7/class_u_swrve_analytics_windows.html#a053dee2342782f3878d349a1e45a96b5", null ],
+    [ "SendToSwrve", "dd/df7/class_u_swrve_analytics_windows.html#a2d17561a5c661e1928368f0d28668bd5", null ],
+    [ "SetUserId", "dd/df7/class_u_swrve_analytics_windows.html#abd18e04612d31fa058355bf16b9f86f8", null ],
+    [ "StartSession", "dd/df7/class_u_swrve_analytics_windows.html#a77a90c31b64380912004ae1443bd086e", null ],
+    [ "SwrveLogEvent", "dd/df7/class_u_swrve_analytics_windows.html#a10e55884dbbcd2b05184e04befa36576", null ],
+    [ "ABTestServer", "dd/df7/class_u_swrve_analytics_windows.html#ae56fc532622687704a857b6e647cc32b", null ],
+    [ "APIServer", "dd/df7/class_u_swrve_analytics_windows.html#a0e0962faad54de3b56866e411e71dc15", null ],
+    [ "CachedSessionToken", "dd/df7/class_u_swrve_analytics_windows.html#a114f0718a2472ef99770f7c9b065f2fc", null ],
+    [ "GameAPIKey", "dd/df7/class_u_swrve_analytics_windows.html#afd6f80c319a63e0e598832269c819278", null ],
+    [ "GameID", "dd/df7/class_u_swrve_analytics_windows.html#a82910b5ba57d431544b4484e4fff975c", null ],
+    [ "SessionStartTime", "dd/df7/class_u_swrve_analytics_windows.html#abae3abc07fcb16a2f39eba173e20e3bf", null ]
+];

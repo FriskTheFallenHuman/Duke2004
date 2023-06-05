@@ -1,0 +1,25 @@
+var class_f_core_audio_sound_buffer =
+[
+    [ "FCoreAudioSoundBuffer", "d0/d33/class_f_core_audio_sound_buffer.html#acc253dae2b2103a36825a1de3ad88fd1", null ],
+    [ "~FCoreAudioSoundBuffer", "d0/d33/class_f_core_audio_sound_buffer.html#aaca4b5269b96792be255a29ab3f2e589", null ],
+    [ "CreateNativeBuffer", "d0/d33/class_f_core_audio_sound_buffer.html#ad1c89c5c809df772d527659034c1cfc6", null ],
+    [ "CreatePreviewBuffer", "d0/d33/class_f_core_audio_sound_buffer.html#a2789fc1689a4f763134deb81514fc86c", null ],
+    [ "CreateProceduralBuffer", "d0/d33/class_f_core_audio_sound_buffer.html#a7f3ef46366310ab16a578428d152b291", null ],
+    [ "CreateQueuedBuffer", "d0/d33/class_f_core_audio_sound_buffer.html#a3dbe932302152162e7bcb4dec2a4e2cb", null ],
+    [ "GetSize", "d0/d33/class_f_core_audio_sound_buffer.html#af250ea8ab4f79345b14e5c81d0e01ec3", null ],
+    [ "GetSoundFormat", "d0/d33/class_f_core_audio_sound_buffer.html#ac24b361d65adb533fb1dfefbaff1082a", null ],
+    [ "Init", "d0/d33/class_f_core_audio_sound_buffer.html#adf405d912fde722b2523a0992aab03be", null ],
+    [ "InitAudioStreamBasicDescription", "d0/d33/class_f_core_audio_sound_buffer.html#aea2aaf4afe77f2aef54f9d9f62c3d184", null ],
+    [ "ReadCompressedData", "d0/d33/class_f_core_audio_sound_buffer.html#a34615f96c2fedacd3bb1afd76f5d54ab", null ],
+    [ "AudioDevice", "d0/d33/class_f_core_audio_sound_buffer.html#af5d2ee6f15a76e7395dc3e953d5173e7", null ],
+    [ "bAllocationInPermanentPool", "d0/d33/class_f_core_audio_sound_buffer.html#a84033dfc25306a7323a596ecf6988d9a", null ],
+    [ "bDynamicResource", "d0/d33/class_f_core_audio_sound_buffer.html#a3cdb454f66aa84d7c5bde4771aa1149a", null ],
+    [ "DecompressionState", "d0/d33/class_f_core_audio_sound_buffer.html#acea7ad6a5f0457f5edbdba9274250aac", null ],
+    [ "NumChannels", "d0/d33/class_f_core_audio_sound_buffer.html#a5c0c417348eaaa1254e6a9cc0eba797b", null ],
+    [ "PCMData", "d0/d33/class_f_core_audio_sound_buffer.html#ac6d87fd7c047866b0ad2e9341189b479", null ],
+    [ "PCMDataSize", "d0/d33/class_f_core_audio_sound_buffer.html#a65609245c81a83494d1f770b85fba2f2", null ],
+    [ "PCMFormat", "d0/d33/class_f_core_audio_sound_buffer.html#a6bd1976a524b7e5f414d9b237f718536", null ],
+    [ "ResourceID", "d0/d33/class_f_core_audio_sound_buffer.html#a1e3a7e44b53f9ed9113eb0eb3ab13041", null ],
+    [ "ResourceName", "d0/d33/class_f_core_audio_sound_buffer.html#af9b9fef5424f276e6f3367bc5700f466", null ],
+    [ "SoundFormat", "d0/d33/class_f_core_audio_sound_buffer.html#a9b3e1fb61b85b5608bd1965df1700d20", null ]
+];

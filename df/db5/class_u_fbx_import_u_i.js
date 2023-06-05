@@ -1,0 +1,25 @@
+var class_u_fbx_import_u_i =
+[
+    [ "StaticConfigName", "df/db5/class_u_fbx_import_u_i.html#a5d8163ad27730428f68aed9e22d5e76d", null ],
+    [ "bAutoCreateGroups", "df/db5/class_u_fbx_import_u_i.html#ac6b203d3e18bba6793f748b594c5faa2", null ],
+    [ "bCombineMeshes", "df/db5/class_u_fbx_import_u_i.html#abfe5a3b6e1a89602c4f0de89d380f71b", null ],
+    [ "bExplicitNormals", "df/db5/class_u_fbx_import_u_i.html#ae01f01758f5d77ceaa31226359eaf314", null ],
+    [ "bImportAnimations", "df/db5/class_u_fbx_import_u_i.html#a4781bf4ad70330adeb94d4d35563ba8e", null ],
+    [ "bImportMaterials", "df/db5/class_u_fbx_import_u_i.html#a9144376a6c26a3cc2f72b51df1e02a19", null ],
+    [ "bImportMeshesInBoneHierarchy", "df/db5/class_u_fbx_import_u_i.html#acccbe93437e519fcfe6ecbe3849c14af", null ],
+    [ "bImportMeshLODs", "df/db5/class_u_fbx_import_u_i.html#aced358bbdaf8e9c64f6c45b717442c2b", null ],
+    [ "bImportMorphTargets", "df/db5/class_u_fbx_import_u_i.html#a97aaee288e90bea410fef0c48b20b0f5", null ],
+    [ "bImportRigidAnimation", "df/db5/class_u_fbx_import_u_i.html#aadb535752e4c2684229d36f94dd04f15", null ],
+    [ "bImportTextures", "df/db5/class_u_fbx_import_u_i.html#aef35917c96ec4db123dcec4d70027f01", null ],
+    [ "bInvertNormalMaps", "df/db5/class_u_fbx_import_u_i.html#a144e45079844e1a249238fa835888c7b", null ],
+    [ "bOneConvexHullPerUCX", "df/db5/class_u_fbx_import_u_i.html#a479d1b2d3026d46fbe9b29793e4a0a47", null ],
+    [ "bOverrideFullName", "df/db5/class_u_fbx_import_u_i.html#aec7a64f5f1d1f1801f70779ad34fffdc", null ],
+    [ "bOverrideTangents", "df/db5/class_u_fbx_import_u_i.html#a5e53e244803051dc11d6af126a7317d7", null ],
+    [ "bRemoveDegenerates", "df/db5/class_u_fbx_import_u_i.html#a25ff4bc8aa0235111af4e98f8b133c98", null ],
+    [ "bReplaceVertexColors", "df/db5/class_u_fbx_import_u_i.html#a50744f516898fc2d9b9c0268db637df3", null ],
+    [ "bResampleAnimations", "df/db5/class_u_fbx_import_u_i.html#ac52b7191dfa66e73e867828e42b85773", null ],
+    [ "bSplitNonMatchingTriangles", "df/db5/class_u_fbx_import_u_i.html#a6882fe78d25b871891d1a571fd38fbed", null ],
+    [ "bUseT0AsRefPose", "df/db5/class_u_fbx_import_u_i.html#a50cbbd61dbe2e54e96c753f38feb9ad2", null ],
+    [ "MeshTypeToImport", "df/db5/class_u_fbx_import_u_i.html#a90f2fbd9355e8b8f54174503223d136e", null ],
+    [ "SCRIPT_ALIGN", "df/db5/class_u_fbx_import_u_i.html#a5c8b26e706648343fe5d464401d008e2", null ]
+];

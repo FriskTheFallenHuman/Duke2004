@@ -1,0 +1,28 @@
+var _animation_compression_8h =
+[
+    [ "FQuatFixed48NoW", "dc/dd7/class_f_quat_fixed48_no_w.html", "dc/dd7/class_f_quat_fixed48_no_w" ],
+    [ "FQuatFixed32NoW", "da/d70/class_f_quat_fixed32_no_w.html", "da/d70/class_f_quat_fixed32_no_w" ],
+    [ "FQuatFloat96NoW", "d0/d3e/class_f_quat_float96_no_w.html", "d0/d3e/class_f_quat_float96_no_w" ],
+    [ "FVectorFixed48", "de/d00/class_f_vector_fixed48.html", "de/d00/class_f_vector_fixed48" ],
+    [ "FVectorIntervalFixed32NoW", "d0/db8/class_f_vector_interval_fixed32_no_w.html", "d0/db8/class_f_vector_interval_fixed32_no_w" ],
+    [ "FQuatIntervalFixed32NoW", "d9/d84/class_f_quat_interval_fixed32_no_w.html", "d9/d84/class_f_quat_interval_fixed32_no_w" ],
+    [ "FQuatFloat32NoW", "dc/d99/class_f_quat_float32_no_w.html", "dc/d99/class_f_quat_float32_no_w" ],
+    [ "FAnimationCompression_PerTrackUtils", "db/d8e/class_f_animation_compression___per_track_utils.html", "db/d8e/class_f_animation_compression___per_track_utils" ],
+    [ "END_EFFECTOR_SOCKET_DUMMY_BONE_SIZE", "d8/d05/_animation_compression_8h.html#af77a1e0d2109080c2db9b26aa2e3b365", null ],
+    [ "Quant10BitDiv", "d8/d05/_animation_compression_8h.html#ae17931d330ec163f824ec41f9ed90fcd", null ],
+    [ "Quant10BitFactor", "d8/d05/_animation_compression_8h.html#a5e81005f8c10f27026b0ecf0cf94ff53", null ],
+    [ "Quant10BitOffs", "d8/d05/_animation_compression_8h.html#a681407e57932b22ed7c0314260115303", null ],
+    [ "Quant11BitDiv", "d8/d05/_animation_compression_8h.html#a7232ca2fc452bd3091575b6c4ca965b4", null ],
+    [ "Quant11BitFactor", "d8/d05/_animation_compression_8h.html#a8b02e95b6cb406d727f9dc78121d22a7", null ],
+    [ "Quant11BitOffs", "d8/d05/_animation_compression_8h.html#a4192c2fa6aa1df8c687619e2ee41fd49", null ],
+    [ "Quant16BitDiv", "d8/d05/_animation_compression_8h.html#a4a93714c5fc9ff2624bc55d751c45a3b", null ],
+    [ "Quant16BitFactor", "d8/d05/_animation_compression_8h.html#a6e2894ae4f8710623214ab4a9ae0b886", null ],
+    [ "Quant16BitOffs", "d8/d05/_animation_compression_8h.html#a2eb997088c44ed097ef7049a76c72f72", null ],
+    [ "QUATERNION_ZEROING_THRESHOLD", "d8/d05/_animation_compression_8h.html#af27de82e52d4b26d3e540ea02b0ea26e", null ],
+    [ "REDUCE_ANIMROTATIONONLY_TRACKS", "d8/d05/_animation_compression_8h.html#a5ac4a8073181e605efdb651bcb4ea7b0", null ],
+    [ "SKIP_ANIMROTATIONONLY_TRACKS", "d8/d05/_animation_compression_8h.html#a24b7f97b08b33d0e4a26e8cf55709e81", null ],
+    [ "SKIP_FORCEMESHTRANSLATION_TRACKS", "d8/d05/_animation_compression_8h.html#af161b393632a4bda24794178f1143f3f", null ],
+    [ "TRANSLATION_ZEROING_THRESHOLD", "d8/d05/_animation_compression_8h.html#a5d5552975476cf836769eaf48d7f82c5", null ],
+    [ "DecompressRotation", "d8/d05/_animation_compression_8h.html#ab151651fc21aa36d2baa3669278eb3c6", null ],
+    [ "DecompressTranslation", "d8/d05/_animation_compression_8h.html#af5c3f404d6f99235d38cb1e420c45736", null ]
+];

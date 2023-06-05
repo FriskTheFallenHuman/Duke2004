@@ -1,0 +1,25 @@
+var class_f_lightmap_res_ratio_adjust_settings =
+[
+    [ "FLightmapResRatioAdjustSettings", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#ac5653317e62d57d6de0a2f219d81fb01", null ],
+    [ "ApplyRatioAdjustment", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a18924eee53f9160d15f6cb091a21f1cc", null ],
+    [ "Get", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a339fa77e4cccaab6bc76fb29448019ee", null ],
+    [ "bBSPSurfaces", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#aa6acfbface43401f610a44bc3b400aa3", null ],
+    [ "bFluidSurfaces", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a452ffb98a938d4fce8666e8cab78ee4f", null ],
+    [ "bSelectedObjectsOnly", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a1772343f2398dcf5e519c740a3d6eb3a", null ],
+    [ "bStaticMeshes", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a0c35466ded1c1a6fe95b3258fbd4ac38", null ],
+    [ "bTerrains", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#adf58bdd4d8287bf97ea58c4d3b50888f", null ],
+    [ "LevelOptions", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#ada5506b0251864768e64b0156dc396e6", null ],
+    [ "LightmapResRatioAdjustSettings", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a22a11b0df5f23612b1bcc75c1c4043fb", null ],
+    [ "Max_BSPSurfaces", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a41fce26b227ab26de17d369666a6182b", null ],
+    [ "Max_FluidSurfaces", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a7f87ec91b90ca4ee30155f8af2d97994", null ],
+    [ "Max_StaticMeshes", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a1bef4a3bfb64c19ca078cb1887949444", null ],
+    [ "Max_Terrains", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#aac065e9b83b23a78e7a49aec1748fb92", null ],
+    [ "Min_BSPSurfaces", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a138f4d38c4e0c7a7875d83fbad8cdb83", null ],
+    [ "Min_FluidSurfaces", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a27730ca7d60747afd3e61303b0b685ed", null ],
+    [ "Min_StaticMeshes", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#af8784facc19c65da479f3527c13f9a00", null ],
+    [ "Min_Terrains", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#ac31247f521fdc4636b8b55391866e776", null ],
+    [ "PrimitiveFlags", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#ad55b26389c563c4f8b181bf3c0d488e9", null ],
+    [ "Ratio", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#ab9c79a2c7a3a98813bdc47a93cd747ea", null ],
+    [ "WindowPositionX", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#a4df5cd706ce67ac44719b243d3fd7c5e", null ],
+    [ "WindowPositionY", "dc/ddd/class_f_lightmap_res_ratio_adjust_settings.html#aae4ddd34cc05a8b53ed5117be3989c2e", null ]
+];

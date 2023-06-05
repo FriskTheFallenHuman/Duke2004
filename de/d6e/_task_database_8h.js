@@ -1,0 +1,35 @@
+var _task_database_8h =
+[
+    [ "FTaskDatabaseResponse", "d8/db3/class_f_task_database_response.html", "d8/db3/class_f_task_database_response" ],
+    [ "FTaskDatabaseResponse_ConnectToDatabase", "db/dbe/class_f_task_database_response___connect_to_database.html", "db/dbe/class_f_task_database_response___connect_to_database" ],
+    [ "FTaskDatabaseResponse_QueryAvailableDatabases", "db/d3e/class_f_task_database_response___query_available_databases.html", "db/d3e/class_f_task_database_response___query_available_databases" ],
+    [ "FTaskDatabaseResponse_QueryFilters", "dc/d42/class_f_task_database_response___query_filters.html", "dc/d42/class_f_task_database_response___query_filters" ],
+    [ "FTaskDatabaseResponse_QueryTasks", "dd/da8/class_f_task_database_response___query_tasks.html", "dd/da8/class_f_task_database_response___query_tasks" ],
+    [ "FTaskDatabaseResponse_QueryTaskDetails", "de/d7a/class_f_task_database_response___query_task_details.html", "de/d7a/class_f_task_database_response___query_task_details" ],
+    [ "__TaskDatabase_h__", "de/d6e/_task_database_8h.html#a2144cd08d57ef874abfac824cf5a7028", null ],
+    [ "Type", "de/d6e/_task_database_8h.html#a09fcb60458c0e395a0cc3a70753bc1ce", [
+      [ "None", "de/d6e/_task_database_8h.html#a09fcb60458c0e395a0cc3a70753bc1cea45226399b523ff29e1dd6c857673fe86", null ],
+      [ "QueryAvailableDatabases", "de/d6e/_task_database_8h.html#a09fcb60458c0e395a0cc3a70753bc1ceab755d9d88d1eff181f37107760d86daf", null ],
+      [ "ConnectToDatabase", "de/d6e/_task_database_8h.html#a09fcb60458c0e395a0cc3a70753bc1cea9689d6c00095635f572e4f87a34582aa", null ],
+      [ "DisconnectFromDatabase", "de/d6e/_task_database_8h.html#a09fcb60458c0e395a0cc3a70753bc1cea8f68d7ee71674e6f95d4baf2570e7418", null ],
+      [ "QueryFilters", "de/d6e/_task_database_8h.html#a09fcb60458c0e395a0cc3a70753bc1cea03daac00acf41a55be8c69c612aebcf5", null ],
+      [ "QueryTasks", "de/d6e/_task_database_8h.html#a09fcb60458c0e395a0cc3a70753bc1ceac6f56477b056b56758682eb1b12046d7", null ],
+      [ "QueryTaskDetails", "de/d6e/_task_database_8h.html#a09fcb60458c0e395a0cc3a70753bc1cea9a7dc31fbd456d6299aa0637f975ed18", null ],
+      [ "MarkTaskComplete", "de/d6e/_task_database_8h.html#a09fcb60458c0e395a0cc3a70753bc1cea00ed5e75a96b144a58dfa5ac8a3f28c1", null ]
+    ] ],
+    [ "ConnectToDatabase_Async", "de/d6e/_task_database_8h.html#ade9ed8b9e5aeb840b9ba80581c0cd1ec", null ],
+    [ "Destroy", "de/d6e/_task_database_8h.html#a43c6bc035eb597a347b9ecb59d7ee2e6", null ],
+    [ "DisconnectFromDatabase_Async", "de/d6e/_task_database_8h.html#a3e5690b91b6dd5e60632322e7542d06e", null ],
+    [ "Init", "de/d6e/_task_database_8h.html#ad03724553d7bbd968914f469ed86b9d3", null ],
+    [ "IsConnected", "de/d6e/_task_database_8h.html#a50c646cdc95be72221589c4091a513d6", null ],
+    [ "IsInitialized", "de/d6e/_task_database_8h.html#a55e065772c3b6dabb308b77f4186a5a2", null ],
+    [ "IsRequestInProgress", "de/d6e/_task_database_8h.html#a3838395624fbf6743e74bd5d20b2f2f7", null ],
+    [ "MarkTaskComplete_Async", "de/d6e/_task_database_8h.html#a48856e40afc57d95ae481fb851238405", null ],
+    [ "QueryAvailableDatabases_Async", "de/d6e/_task_database_8h.html#ad492d5e80c2a7f62860c9749099114c7", null ],
+    [ "QueryFilters_Async", "de/d6e/_task_database_8h.html#ada809f515c4ff27a0de30931eb1d7027", null ],
+    [ "QueryTaskDetails_Async", "de/d6e/_task_database_8h.html#af1be30c9d656716a41ff82da5dae30b6", null ],
+    [ "QueryTasks_Async", "de/d6e/_task_database_8h.html#a7a7c17799b6b3091863cfa017d70b439", null ],
+    [ "RegisterListener", "de/d6e/_task_database_8h.html#ade8176ff593970e697b1d750ac02c591", null ],
+    [ "UnregisterListener", "de/d6e/_task_database_8h.html#a1d7c53fea92e32d48ed70608d508f3f2", null ],
+    [ "Update", "de/d6e/_task_database_8h.html#a0c5725cd4c5c8b678f6ef1cc32f7d97d", null ]
+];

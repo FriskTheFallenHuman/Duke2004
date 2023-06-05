@@ -1,0 +1,35 @@
+var _game_framework_camera_classes_8h =
+[
+    [ "GameCameraBase_eventModifyPostProcessSettings_Parms", "d7/da8/struct_game_camera_base__event_modify_post_process_settings___parms.html", "d7/da8/struct_game_camera_base__event_modify_post_process_settings___parms" ],
+    [ "UGameCameraBase", "dc/de5/class_u_game_camera_base.html", "dc/de5/class_u_game_camera_base" ],
+    [ "FCamFocusPointParams", "d2/d3b/struct_f_cam_focus_point_params.html", "d2/d3b/struct_f_cam_focus_point_params" ],
+    [ "FPenetrationAvoidanceFeeler", "d5/d75/struct_f_penetration_avoidance_feeler.html", "d5/d75/struct_f_penetration_avoidance_feeler" ],
+    [ "GameThirdPersonCamera_eventUpdateFocusPoint_Parms", "d8/df0/struct_game_third_person_camera__event_update_focus_point___parms.html", "d8/df0/struct_game_third_person_camera__event_update_focus_point___parms" ],
+    [ "GameThirdPersonCamera_eventGetDesiredFOV_Parms", "db/dec/struct_game_third_person_camera__event_get_desired_f_o_v___parms.html", "db/dec/struct_game_third_person_camera__event_get_desired_f_o_v___parms" ],
+    [ "UGameThirdPersonCamera", "dd/dc0/class_u_game_third_person_camera.html", "dd/dc0/class_u_game_third_person_camera" ],
+    [ "AGamePlayerCamera", "df/d69/class_a_game_player_camera.html", "df/d69/class_a_game_player_camera" ],
+    [ "FViewOffsetData", "dd/db3/struct_f_view_offset_data.html", "dd/db3/struct_f_view_offset_data" ],
+    [ "GameThirdPersonCameraMode_eventGetCameraWorstCaseLoc_Parms", "dc/d8b/struct_game_third_person_camera_mode__event_get_camera_worst_case_loc___parms.html", "dc/d8b/struct_game_third_person_camera_mode__event_get_camera_worst_case_loc___parms" ],
+    [ "GameThirdPersonCameraMode_eventAdjustViewOffset_Parms", "d1/d6f/struct_game_third_person_camera_mode__event_adjust_view_offset___parms.html", "d1/d6f/struct_game_third_person_camera_mode__event_adjust_view_offset___parms" ],
+    [ "UGameThirdPersonCameraMode", "dc/d72/class_u_game_third_person_camera_mode.html", "dc/d72/class_u_game_third_person_camera_mode" ],
+    [ "UGameThirdPersonCameraMode_Default", "d3/d1b/class_u_game_third_person_camera_mode___default.html", "d3/d1b/class_u_game_third_person_camera_mode___default" ],
+    [ "AUTOGENERATE_FUNCTION", "d2/d4d/_game_framework_camera_classes_8h.html#a1d216a2ff9146bc18d13c082282b1f38", null ],
+    [ "ENABLE_DECLARECLASS_MACRO", "d2/d4d/_game_framework_camera_classes_8h.html#a58d58eb4d02375c97e59111940434557", null ],
+    [ "FOREACH_ENUM_ECAMERAVIEWPORTTYPES", "d2/d4d/_game_framework_camera_classes_8h.html#a9c9410852ad6fa9b667761725961d3c5", null ],
+    [ "INCLUDED_GAMEFRAMEWORK_CAMERA_CLASSES", "d2/d4d/_game_framework_camera_classes_8h.html#a12f16faf31e011f172e5a09dd12b49d8", null ],
+    [ "INCLUDED_GAMEFRAMEWORK_CAMERA_ENUMS", "d2/d4d/_game_framework_camera_classes_8h.html#a774b3c1217efeed32d20f1572ac34d6b", null ],
+    [ "ECameraViewportTypes", "d2/d4d/_game_framework_camera_classes_8h.html#a4b344a6afc75a62a2ab86cdbcfa6e236", [
+      [ "CVT_16to9_Full", "d2/d4d/_game_framework_camera_classes_8h.html#a4b344a6afc75a62a2ab86cdbcfa6e236a28165953bd4ca319907df9eeab53eee2", null ],
+      [ "CVT_16to9_VertSplit", "d2/d4d/_game_framework_camera_classes_8h.html#a4b344a6afc75a62a2ab86cdbcfa6e236a65c0240b252820151cafda40df431376", null ],
+      [ "CVT_16to9_HorizSplit", "d2/d4d/_game_framework_camera_classes_8h.html#a4b344a6afc75a62a2ab86cdbcfa6e236a6a025f4ba70805dff06ed6f2839bef78", null ],
+      [ "CVT_4to3_Full", "d2/d4d/_game_framework_camera_classes_8h.html#a4b344a6afc75a62a2ab86cdbcfa6e236a994cde3b8fbb070b285411856da69c5a", null ],
+      [ "CVT_4to3_HorizSplit", "d2/d4d/_game_framework_camera_classes_8h.html#a4b344a6afc75a62a2ab86cdbcfa6e236a24af4ff822d9ac039b82250739d96ca7", null ],
+      [ "CVT_4to3_VertSplit", "d2/d4d/_game_framework_camera_classes_8h.html#a4b344a6afc75a62a2ab86cdbcfa6e236a61c08a4c0e76af1112e0a54523ffab87", null ],
+      [ "CVT_MAX", "d2/d4d/_game_framework_camera_classes_8h.html#a4b344a6afc75a62a2ab86cdbcfa6e236a68736686f53e1b6ae861eeeece64d9a4", null ]
+    ] ],
+    [ "AUTOGENERATE_FUNCTION", "d2/d4d/_game_framework_camera_classes_8h.html#a612eede27309aedd03f77558fed41842", null ],
+    [ "AUTOGENERATE_FUNCTION", "d2/d4d/_game_framework_camera_classes_8h.html#a6b33053cdfe3ef0f96ac0e6156f46f38", null ],
+    [ "AUTOGENERATE_FUNCTION", "d2/d4d/_game_framework_camera_classes_8h.html#a6d1aeb7a5156236645e9545f9bc73c28", null ],
+    [ "AUTOGENERATE_FUNCTION", "d2/d4d/_game_framework_camera_classes_8h.html#a202419f8235613ebcfe3e008e837b419", null ],
+    [ "AUTOGENERATE_FUNCTION", "d2/d4d/_game_framework_camera_classes_8h.html#a26ed2515eda4983622ae5544ac52721b", null ]
+];

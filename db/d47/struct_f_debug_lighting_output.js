@@ -1,0 +1,25 @@
+var struct_f_debug_lighting_output =
+[
+    [ "FDebugLightingOutput", "db/d47/struct_f_debug_lighting_output.html#a36522c13e48f6b722a5cabedbcfa398a", null ],
+    [ "bCornerValid", "db/d47/struct_f_debug_lighting_output.html#a1d046effd56b3e73408f69c54a0cc0b5", null ],
+    [ "bDirectPhotonValid", "db/d47/struct_f_debug_lighting_output.html#a89b1944f700ccaf3a5c5a83db3dcbaa7", null ],
+    [ "bValid", "db/d47/struct_f_debug_lighting_output.html#a3ae3a191967891bf80d969cafe9f64f0", null ],
+    [ "CacheRecords", "db/d47/struct_f_debug_lighting_output.html#a75055aefe1736337a376c1a9c44c9d52", null ],
+    [ "DirectPhotons", "db/d47/struct_f_debug_lighting_output.html#a457286c77100d5f14165495f3fe04807", null ],
+    [ "GatheredCausticPhotons", "db/d47/struct_f_debug_lighting_output.html#aaae5146f9e7c301129dbf601fc314c0d", null ],
+    [ "GatheredDirectPhoton", "db/d47/struct_f_debug_lighting_output.html#a2ed8356e3272c96764793e630c403d5e", null ],
+    [ "GatheredImportancePhotons", "db/d47/struct_f_debug_lighting_output.html#a8e7ff96abf73979a207e3cc75a1b82d9", null ],
+    [ "GatheredPhotonNodes", "db/d47/struct_f_debug_lighting_output.html#a28d6a6cdc5070a2568debb55baf17c02", null ],
+    [ "GatheredPhotons", "db/d47/struct_f_debug_lighting_output.html#a148e790b9054d5177e81ca97a2400b3c", null ],
+    [ "IndirectPhotonPaths", "db/d47/struct_f_debug_lighting_output.html#a6dbc4af04cb61331aa9758dafdd63735", null ],
+    [ "IndirectPhotons", "db/d47/struct_f_debug_lighting_output.html#afeadf0eb12a65cccc27d9dffbf8e45ec", null ],
+    [ "IrradiancePhotons", "db/d47/struct_f_debug_lighting_output.html#abc7a92ea0163256eaed3ee695fa6654b", null ],
+    [ "PathRays", "db/d47/struct_f_debug_lighting_output.html#a6d0d3e38c50ea0f5fecac9da95c579d2", null ],
+    [ "PrecomputedVisibilityRays", "db/d47/struct_f_debug_lighting_output.html#aab3d6b279ecb36a6d167cbad7afee610", null ],
+    [ "SampleRadius", "db/d47/struct_f_debug_lighting_output.html#a396c742a1bdabf70f0a55b79cf49ad55", null ],
+    [ "SelectedVertexIndices", "db/d47/struct_f_debug_lighting_output.html#a5bc21330aaf8ebc4d31e5df55a9848b6", null ],
+    [ "ShadowRays", "db/d47/struct_f_debug_lighting_output.html#a4b7d1bd2562b0e676c7880f01dc2ea4a", null ],
+    [ "TexelCorners", "db/d47/struct_f_debug_lighting_output.html#a9d76162e1379c6fd012e6df41153d586", null ],
+    [ "Vertices", "db/d47/struct_f_debug_lighting_output.html#a6591e457fe7ce7dab9b4bf8dd34a6c52", null ],
+    [ "VolumeLightingSamples", "db/d47/struct_f_debug_lighting_output.html#a8bc68a5a179609a334e06ffb5cb12eec", null ]
+];

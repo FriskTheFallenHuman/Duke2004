@@ -1,0 +1,25 @@
+var _task_database_8cpp =
+[
+    [ "ConnectToDatabase_Async", "d3/db7/_task_database_8cpp.html#ade9ed8b9e5aeb840b9ba80581c0cd1ec", null ],
+    [ "Destroy", "d3/db7/_task_database_8cpp.html#a43c6bc035eb597a347b9ecb59d7ee2e6", null ],
+    [ "DisconnectFromDatabase_Async", "d3/db7/_task_database_8cpp.html#a3e5690b91b6dd5e60632322e7542d06e", null ],
+    [ "Init", "d3/db7/_task_database_8cpp.html#ad03724553d7bbd968914f469ed86b9d3", null ],
+    [ "IsConnected", "d3/db7/_task_database_8cpp.html#a50c646cdc95be72221589c4091a513d6", null ],
+    [ "IsInitialized", "d3/db7/_task_database_8cpp.html#a55e065772c3b6dabb308b77f4186a5a2", null ],
+    [ "IsRequestInProgress", "d3/db7/_task_database_8cpp.html#a3838395624fbf6743e74bd5d20b2f2f7", null ],
+    [ "MarkTaskComplete_Async", "d3/db7/_task_database_8cpp.html#a48856e40afc57d95ae481fb851238405", null ],
+    [ "ProcessCompletedRequests", "d3/db7/_task_database_8cpp.html#a35830b32b605bcc693c2eb7c0bedae7e", null ],
+    [ "QueryAvailableDatabases_Async", "d3/db7/_task_database_8cpp.html#ad492d5e80c2a7f62860c9749099114c7", null ],
+    [ "QueryFilters_Async", "d3/db7/_task_database_8cpp.html#ada809f515c4ff27a0de30931eb1d7027", null ],
+    [ "QueryTaskDetails_Async", "d3/db7/_task_database_8cpp.html#af1be30c9d656716a41ff82da5dae30b6", null ],
+    [ "QueryTasks_Async", "d3/db7/_task_database_8cpp.html#a7a7c17799b6b3091863cfa017d70b439", null ],
+    [ "RegisterListener", "d3/db7/_task_database_8cpp.html#ade8176ff593970e697b1d750ac02c591", null ],
+    [ "StartAsyncRequest", "d3/db7/_task_database_8cpp.html#abfbf93455297a3fc9e7bab33f3683550", null ],
+    [ "UnregisterListener", "d3/db7/_task_database_8cpp.html#a1d7c53fea92e32d48ed70608d508f3f2", null ],
+    [ "Update", "d3/db7/_task_database_8cpp.html#a0c5725cd4c5c8b678f6ef1cc32f7d97d", null ],
+    [ "GIsConnected", "d3/db7/_task_database_8cpp.html#a92fa36d768d84d82db1b3d78e1eea1d7", null ],
+    [ "GIsWaitingForResponse", "d3/db7/_task_database_8cpp.html#ae4931a21262681aabde71462a7d60c60", null ],
+    [ "GListeners", "d3/db7/_task_database_8cpp.html#a8679feb670fb766b8e8665e565ee800e", null ],
+    [ "GTaskDatabaseThread", "d3/db7/_task_database_8cpp.html#a99c1f0aa55950457ccefb01dd0bd4f82", null ],
+    [ "GTaskDatabaseThreadRunnable", "d3/db7/_task_database_8cpp.html#a2f6a65597dfc71b8533eb338bf7cbeab", null ]
+];

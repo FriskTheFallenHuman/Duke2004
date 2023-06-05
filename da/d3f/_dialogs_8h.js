@@ -1,0 +1,35 @@
+var _dialogs_8h =
+[
+    [ "WxDualFileDialog", "d3/d67/class_wx_dual_file_dialog.html", "d3/d67/class_wx_dual_file_dialog" ],
+    [ "WxDualFileDialog::FileSelectionData", "dd/d7a/struct_wx_dual_file_dialog_1_1_file_selection_data.html", "dd/d7a/struct_wx_dual_file_dialog_1_1_file_selection_data" ],
+    [ "WxChoiceDialogBase", "d6/da8/class_wx_choice_dialog_base.html", "d6/da8/class_wx_choice_dialog_base" ],
+    [ "WxChoiceDialogBase::Choice", "d2/d53/struct_wx_choice_dialog_base_1_1_choice.html", "d2/d53/struct_wx_choice_dialog_base_1_1_choice" ],
+    [ "WxChoiceDialog", "df/d2f/class_wx_choice_dialog.html", "df/d2f/class_wx_choice_dialog" ],
+    [ "WxLongChoiceDialog", "d3/d98/class_wx_long_choice_dialog.html", "d3/d98/class_wx_long_choice_dialog" ],
+    [ "WxModelessPrompt", "df/d2a/class_wx_modeless_prompt.html", "df/d2a/class_wx_modeless_prompt" ],
+    [ "WxSuppressableWarningDialog", "d8/d70/class_wx_suppressable_warning_dialog.html", "d8/d70/class_wx_suppressable_warning_dialog" ],
+    [ "WxDlgBindHotkeys", "d0/d5e/class_wx_dlg_bind_hotkeys.html", "d0/d5e/class_wx_dlg_bind_hotkeys" ],
+    [ "WxDlgBindHotkeys::FCommandPanel", "d6/d30/struct_wx_dlg_bind_hotkeys_1_1_f_command_panel.html", "d6/d30/struct_wx_dlg_bind_hotkeys_1_1_f_command_panel" ],
+    [ "WxDlgPackageGroupName", "db/d34/class_wx_dlg_package_group_name.html", "db/d34/class_wx_dlg_package_group_name" ],
+    [ "WxDlgNewArchetype", "de/dba/class_wx_dlg_new_archetype.html", "de/dba/class_wx_dlg_new_archetype" ],
+    [ "WxDlgAddSpecial", "d1/d39/class_wx_dlg_add_special.html", "d1/d39/class_wx_dlg_add_special" ],
+    [ "WxDlgGenericStringEntry", "dd/deb/class_wx_dlg_generic_string_entry.html", "dd/deb/class_wx_dlg_generic_string_entry" ],
+    [ "WxDlgGenericStringWrappedEntry", "d3/d4b/class_wx_dlg_generic_string_wrapped_entry.html", "d3/d4b/class_wx_dlg_generic_string_wrapped_entry" ],
+    [ "WxDlgGenericSlider", "d8/d9e/class_wx_dlg_generic_slider.html", "d8/d9e/class_wx_dlg_generic_slider" ],
+    [ "WxDlgMorphLODImport", "d1/d35/class_wx_dlg_morph_l_o_d_import.html", "d1/d35/class_wx_dlg_morph_l_o_d_import" ],
+    [ "WxDlgSurfaceProperties", "db/def/class_wx_dlg_surface_properties.html", "db/def/class_wx_dlg_surface_properties" ],
+    [ "WxDlgColor", "d7/dab/class_wx_dlg_color.html", "d7/dab/class_wx_dlg_color" ],
+    [ "FColorChannelStruct", "dd/d56/struct_f_color_channel_struct.html", "dd/d56/struct_f_color_channel_struct" ],
+    [ "FPickColorStruct", "d6/dac/struct_f_pick_color_struct.html", "d6/dac/struct_f_pick_color_struct" ],
+    [ "WxDlgLoadErrors", "d2/d7d/class_wx_dlg_load_errors.html", "d2/d7d/class_wx_dlg_load_errors" ],
+    [ "WxDlgEditPlayWorldURL", "d0/df2/class_wx_dlg_edit_play_world_u_r_l.html", "d0/df2/class_wx_dlg_edit_play_world_u_r_l" ],
+    [ "ColorPickerResults", "da/d3f/_dialogs_8h.html#a3d26baa5a791ff085b9437909ffd2640", [
+      [ "ColorAccepted", "da/d3f/_dialogs_8h.html#a3d26baa5a791ff085b9437909ffd2640a571520e4cdbf136ede7b10af221a7611", null ],
+      [ "ColorRejected", "da/d3f/_dialogs_8h.html#a3d26baa5a791ff085b9437909ffd2640a31a7e74069c136e5dc67b5690e39232f", null ]
+    ] ],
+    [ "PickColor", "da/d3f/_dialogs_8h.html#a302bc8361e7526af73a447e5399c40dd", null ],
+    [ "PromptUserForDirectory", "da/d3f/_dialogs_8h.html#a43a2672221082658df94029065464ba6", null ],
+    [ "UnBindColorPickers", "da/d3f/_dialogs_8h.html#ab712cb3febb09ef27b382dfbd280b46f", null ],
+    [ "UnBindColorPickers", "da/d3f/_dialogs_8h.html#acec9887d0e8e10876d9649e1d3e2ce67", null ],
+    [ "MaxAllowedUpdateEventTime", "da/d3f/_dialogs_8h.html#a55ffb7646364681aeffd2608f1e83841", null ]
+];

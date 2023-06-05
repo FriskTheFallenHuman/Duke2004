@@ -1,0 +1,25 @@
+var class_a_duke_weapon =
+[
+    [ "BeginFire", "d4/d30/class_a_duke_weapon.html#aa92d3882fc13d7383645209e3ca076ac", null ],
+    [ "DECLARE_FUNCTION", "d4/d30/class_a_duke_weapon.html#aa841b215bff818aea8be38831aff9491", null ],
+    [ "DECLARE_FUNCTION", "d4/d30/class_a_duke_weapon.html#a330ea72c1bdfc001fda75385e48cfae7", null ],
+    [ "eventSetPosition", "d4/d30/class_a_duke_weapon.html#aeb514e935bf4ccd5a332fc403af79307", null ],
+    [ "ResetToIdle", "d4/d30/class_a_duke_weapon.html#ad59910bd29dfcc5726a1541fb3d31730", null ],
+    [ "AmmoCount", "d4/d30/class_a_duke_weapon.html#a7d295a14b43777fa5f318331322b5bed", null ],
+    [ "bForceHidden", "d4/d30/class_a_duke_weapon.html#a855f7e9c04ce56be011de8f5665fb06e", null ],
+    [ "BobDamping", "d4/d30/class_a_duke_weapon.html#abce560dc9caaaf08493b8a855a9f1410", null ],
+    [ "bPendingShow", "d4/d30/class_a_duke_weapon.html#ab5c039e54dd034bddc89771956a7aaed", null ],
+    [ "HiddenWeaponsOffset", "d4/d30/class_a_duke_weapon.html#ab9cbd78fb85db7749fbbf4819cf76b0f", null ],
+    [ "InventoryWeight", "d4/d30/class_a_duke_weapon.html#ab7d7997f34e905fefd4d8270e1d68768", null ],
+    [ "JumpDamping", "d4/d30/class_a_duke_weapon.html#ae5ed4d50785a43da2f7d8c5ff883714d", null ],
+    [ "MaxAmmoCount", "d4/d30/class_a_duke_weapon.html#a686da550bcc700b37cf63e231b119340", null ],
+    [ "PlayerViewOffset", "d4/d30/class_a_duke_weapon.html#ab9a3deec0442d5df5c1027ea68cbc5db", null ],
+    [ "ProjectileSpawnOffset", "d4/d30/class_a_duke_weapon.html#ac1cb97d9030a766e3084279d28a9c4e5", null ],
+    [ "SCRIPT_ALIGN", "d4/d30/class_a_duke_weapon.html#ac783f05b84908ceb872e72ad65a45487", null ],
+    [ "SmallWeaponsOffset", "d4/d30/class_a_duke_weapon.html#aae67e27946918946d1c61d9bb620f144", null ],
+    [ "WeaponFireAnim", "d4/d30/class_a_duke_weapon.html#a7df54c1feaba3500cb9b0edefc881e89", null ],
+    [ "WeaponIdleAnims", "d4/d30/class_a_duke_weapon.html#aa0a5bbf97a1a9fbd98d460ff930c4746", null ],
+    [ "weaponState", "d4/d30/class_a_duke_weapon.html#a838039f2140969d65bf7f3b0616105b0", null ],
+    [ "WideScreenOffsetScaling", "d4/d30/class_a_duke_weapon.html#a2b0bcea019e9d34bfddab8824d8752d3", null ],
+    [ "WidescreenRotationOffset", "d4/d30/class_a_duke_weapon.html#a3566ce0bbf5ae144630bd7971368e282", null ]
+];

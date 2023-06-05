@@ -1,0 +1,48 @@
+var class_wx_curve_ed_preset_dlg =
+[
+    [ "PresetCurveControls", "da/d1c/struct_wx_curve_ed_preset_dlg_1_1_preset_curve_controls.html", "da/d1c/struct_wx_curve_ed_preset_dlg_1_1_preset_curve_controls" ],
+    [ "CurveBlocks", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a55a497f79f7b9018a08d967c8c01022f", [
+      [ "CEP_CURVE_XMAX", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a55a497f79f7b9018a08d967c8c01022fa50891266885d3eea1dcdc39425466fef", null ],
+      [ "CEP_CURVE_YMAX", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a55a497f79f7b9018a08d967c8c01022fa61eff6fe73e6f621632b18d4ab42e9e4", null ],
+      [ "CEP_CURVE_ZMAX", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a55a497f79f7b9018a08d967c8c01022faef34c1930e0b6c6b1062040f8135be40", null ],
+      [ "CEP_CURVE_XMIN", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a55a497f79f7b9018a08d967c8c01022fa81aa1049dabb36603f48145c405fdeca", null ],
+      [ "CEP_CURVE_YMIN", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a55a497f79f7b9018a08d967c8c01022fa450334750000ed4b914a09178f9b9caf", null ],
+      [ "CEP_CURVE_ZMIN", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a55a497f79f7b9018a08d967c8c01022faf284ae98904a239df3622824db660027", null ],
+      [ "CEP_CURVE_MAX", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a55a497f79f7b9018a08d967c8c01022fa64393760fb1e5b3a0b18d0143accc803", null ]
+    ] ],
+    [ "ValidCurveList", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491", [
+      [ "VCL_XMax", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491a4ee07d28f78f3a32f352910193a990ee", null ],
+      [ "VCL_YMax", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491a15d20d713c45812b9ce7ee1386e6b930", null ],
+      [ "VCL_ZMax", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491a8b0dbe65b89b39184902268f082c2278", null ],
+      [ "VCL_XMin", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491ad79b72bd7a4a685c533a830b7da67fbd", null ],
+      [ "VCL_YMin", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491abdf88c83b8dea7f7d7972ac9975923de", null ],
+      [ "VCL_ZMin", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491a6c795675545c1b03c7429c9dc99a557e", null ],
+      [ "VCL_FloatConstantCurve", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491a90386d2a9ffc75fdc30319ad9c40766d", null ],
+      [ "VCL_FloatUniformCurve", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491ac8e8c5ad893192edea2927cda8a3c72b", null ],
+      [ "VCL_VectorConstantCurve", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491ade70acd9572a1119665b8c49a09f777d", null ],
+      [ "VCL_VectorUniformCurve", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a78c3254bad992f1c075091ec268f7491ae54fde7ac1ae2fb0ff0a594b57fe6b35", null ]
+    ] ],
+    [ "WxCurveEdPresetDlg", "d3/dd4/class_wx_curve_ed_preset_dlg.html#af4072b73757eb46f4e883e53f3e54343", null ],
+    [ "WxCurveEdPresetDlg", "d3/dd4/class_wx_curve_ed_preset_dlg.html#af499ba0f961bac63d52ddc276ec01c10", null ],
+    [ "~WxCurveEdPresetDlg", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a7c309f79f051d6df902ee690930a1953", null ],
+    [ "CreateControls", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a4e5b648860fc6cbabbd74b2812dcdc6a", null ],
+    [ "FillPresetCombos", "d3/dd4/class_wx_curve_ed_preset_dlg.html#acd94a973bbf9902f822cb55bcaf59e0e", null ],
+    [ "GetIsSaveDlg", "d3/dd4/class_wx_curve_ed_preset_dlg.html#ad18f115dc96a7405d58a2c6c8a22061d", null ],
+    [ "GetPreset", "d3/dd4/class_wx_curve_ed_preset_dlg.html#add7b30270b5aec1774cf7da616a9346f", null ],
+    [ "IsCurveValid", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a3a85811202a0c5824bb4842262d11b7f", null ],
+    [ "OnDestroy", "d3/dd4/class_wx_curve_ed_preset_dlg.html#af3fe047a77d6aa19936ca69aa98090ad", null ],
+    [ "OnOK", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a3cf5a9ef701f18ea9975c5e32d40a526", null ],
+    [ "OnPresetCombo", "d3/dd4/class_wx_curve_ed_preset_dlg.html#ae601e2b0eab11b06c8d6ad1862c26163", null ],
+    [ "Serialize", "d3/dd4/class_wx_curve_ed_preset_dlg.html#ad1a8fbe5272a6dfdc925dbd7417e996b", null ],
+    [ "SetDefaultValues", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a6ba3fa9d2f1cff533d328fb1f0995151", null ],
+    [ "ShowDialog", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a190566cd794dee3355080e17db4b73fe", null ],
+    [ "bIsSaveDlg", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a256d433a5255ca2b7403c1235697bbf1", null ],
+    [ "CurveControls", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a920f7c0bc6626cadef2b945211bc09e9", null ],
+    [ "CurveEditor", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a793c29a699f934e064a5928d7f7d72c5", null ],
+    [ "CurveNameCtrl", "d3/dd4/class_wx_curve_ed_preset_dlg.html#afb848685c73882cd222bf54d5f96275c", null ],
+    [ "EndTimeValue", "d3/dd4/class_wx_curve_ed_preset_dlg.html#ab46c8ea60df1829edaf0f3906a57890e", null ],
+    [ "LocalCurveEdPresets", "d3/dd4/class_wx_curve_ed_preset_dlg.html#abc4b1e5a14fc34ef15883cf71bb413e1", null ],
+    [ "NumSamples", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a8abcfa9962ffd62a9bc961471d0631b4", null ],
+    [ "StartTimeValue", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a481f0d90b36e1f0a14c9460ea9fe65f4", null ],
+    [ "ValidityFlags", "d3/dd4/class_wx_curve_ed_preset_dlg.html#a2c37d835db2ea68989e2b69e774620db", null ]
+];

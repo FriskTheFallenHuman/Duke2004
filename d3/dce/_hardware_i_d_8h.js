@@ -1,0 +1,27 @@
+var _hardware_i_d_8h =
+[
+    [ "_PROCESSOR_POWER_INFORMATION", "d7/d8e/struct___p_r_o_c_e_s_s_o_r___p_o_w_e_r___i_n_f_o_r_m_a_t_i_o_n.html", "d7/d8e/struct___p_r_o_c_e_s_s_o_r___p_o_w_e_r___i_n_f_o_r_m_a_t_i_o_n" ],
+    [ "cpuid_args_s", "da/dec/structcpuid__args__s.html", "da/dec/structcpuid__args__s" ],
+    [ "HardwareID", "da/d1c/class_hardware_i_d.html", "da/d1c/class_hardware_i_d" ],
+    [ "_3DNOW_FEATURE_BIT", "d3/dce/_hardware_i_d_8h.html#a1cf75297515a36095bfaee78ef7d04bf", null ],
+    [ "_CPU_FEATURE_3DNOW", "d3/dce/_hardware_i_d_8h.html#a63778f04121d1015cba3c5ad97f6ac10", null ],
+    [ "_CPU_FEATURE_HYPERTHREADING", "d3/dce/_hardware_i_d_8h.html#aaf8b3ee3a1bcb304d27d74c990bcfcd5", null ],
+    [ "_CPU_FEATURE_IA64", "d3/dce/_hardware_i_d_8h.html#a89bd1f9477bb7710600d721668de4a55", null ],
+    [ "_CPU_FEATURE_MMX", "d3/dce/_hardware_i_d_8h.html#a14421a02e77eac80407ddc929861a569", null ],
+    [ "_CPU_FEATURE_SSE", "d3/dce/_hardware_i_d_8h.html#a41c18306cc0c593068017d6fba339320", null ],
+    [ "_CPU_FEATURE_SSE2", "d3/dce/_hardware_i_d_8h.html#a247f910781736aedebffac80d4d7065e", null ],
+    [ "_MAX_MNAME_LEN", "d3/dce/_hardware_i_d_8h.html#a75293bbe68b15d96cc0792fec6262fec", null ],
+    [ "_MAX_VNAME_LEN", "d3/dce/_hardware_i_d_8h.html#ab276f022920e329025343f76ebc757ec", null ],
+    [ "_MMX_FEATURE_BIT", "d3/dce/_hardware_i_d_8h.html#aeec9dcfecc919db9a943002eeb3bb21a", null ],
+    [ "_SSE2_FEATURE_BIT", "d3/dce/_hardware_i_d_8h.html#a06b1bdf362f7dc2cd13dc06e9f39418f", null ],
+    [ "_SSE_FEATURE_BIT", "d3/dce/_hardware_i_d_8h.html#a493aca8e048113164e62fad57a0d5b8f", null ],
+    [ "EXT_FAMILY_ID", "d3/dce/_hardware_i_d_8h.html#aba00fe79fba1762d08f04f0fe5d50b45", null ],
+    [ "FAMILY_ID", "d3/dce/_hardware_i_d_8h.html#acd04b34d0271ee1dba3c2af76fae1dd3", null ],
+    [ "HT_BIT", "d3/dce/_hardware_i_d_8h.html#a10ca0e1fe60a5a57e8751bedbd5f5bd9", null ],
+    [ "INITIAL_APIC_ID_BITS", "d3/dce/_hardware_i_d_8h.html#a3c2d36d372b50e15f66ffc801790fd2b", null ],
+    [ "NUM_LOGICAL_BITS", "d3/dce/_hardware_i_d_8h.html#ab81478163be456f6c2d656a8b7779a6d", null ],
+    [ "PENTIUM4_ID", "d3/dce/_hardware_i_d_8h.html#adea8834d41199963b97b9b30a932f4eb", null ],
+    [ "CPUID_ARGS", "d3/dce/_hardware_i_d_8h.html#afe55249d7ed7f11b00e6e33aa20d5999", null ],
+    [ "PPROCESSOR_POWER_INFORMATION", "d3/dce/_hardware_i_d_8h.html#afd1e27b13d1a1e4d90d5210416dafaf6", null ],
+    [ "PROCESSOR_POWER_INFORMATION", "d3/dce/_hardware_i_d_8h.html#a518072808aa6b146a1f08e5269cd425e", null ]
+];

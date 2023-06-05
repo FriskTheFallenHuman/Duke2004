@@ -1,0 +1,26 @@
+var struct_existing_static_mesh_data =
+[
+    [ "ExistingBodySetup", "d5/d03/struct_existing_static_mesh_data.html#aac93b7b6b2a0f1bb2a9bd91953b01217", null ],
+    [ "ExistingCanBecomeDynamic", "d5/d03/struct_existing_static_mesh_data.html#ab0db458c5834b825871734544a3d9db3", null ],
+    [ "ExistingCollisionModel", "d5/d03/struct_existing_static_mesh_data.html#a803f3a607e0f99bec3e6995958576d41", null ],
+    [ "ExistingElementCollision", "d5/d03/struct_existing_static_mesh_data.html#a4942d4f2e1693bb5b8eb13a502e4a80e", null ],
+    [ "ExistingElementMaterial", "d5/d03/struct_existing_static_mesh_data.html#a851287c922eb10fd4949259b375b9c45", null ],
+    [ "ExistingElementShadowCasting", "d5/d03/struct_existing_static_mesh_data.html#a14486b38fd7b91b423958a97a4e6b58a", null ],
+    [ "ExistingLightMapCoordinateIndex", "d5/d03/struct_existing_static_mesh_data.html#a5852efeee113f0e3338a82a991135908", null ],
+    [ "ExistingLightMapResolution", "d5/d03/struct_existing_static_mesh_data.html#aa4fb723c42d289680c84e8a67c326858", null ],
+    [ "ExistingLODDistanceRatio", "d5/d03/struct_existing_static_mesh_data.html#ad6168787b91138e18119d6cceaf6c38a", null ],
+    [ "ExistingLODMaxRange", "d5/d03/struct_existing_static_mesh_data.html#a9ae127ad87c9e1dba93299a75c3087c3", null ],
+    [ "ExistingPartitionForEdgeGeometry", "d5/d03/struct_existing_static_mesh_data.html#a0ae8ff36a4f6dc557c5a843105b59d47", null ],
+    [ "ExistingStreamingDistanceMultiplier", "d5/d03/struct_existing_static_mesh_data.html#ac696de5b5de1ac860a4c5dd84c653629", null ],
+    [ "ExistingStripkDOPForConsole", "d5/d03/struct_existing_static_mesh_data.html#a10e98d7e6c2899efb1ca8524b1ee9217", null ],
+    [ "ExistingThumbnailAngle", "d5/d03/struct_existing_static_mesh_data.html#a15c1f3fde9851ade3099b7e03ec1877c", null ],
+    [ "ExistingThumbnailDistance", "d5/d03/struct_existing_static_mesh_data.html#abdeab95c0530d7464c83678dc25d76cf", null ],
+    [ "ExistingUsedForInstancing", "d5/d03/struct_existing_static_mesh_data.html#aa17ad590ef813f237f0306478c47995f", null ],
+    [ "ExistingUseFullPrecisionUVs", "d5/d03/struct_existing_static_mesh_data.html#ae4372015959fe2dcee6195cd05ab3924", null ],
+    [ "ExistingUseMaximumStreamingTexelRatio", "d5/d03/struct_existing_static_mesh_data.html#a441f57748ac43993cfe4adf1906d31bc", null ],
+    [ "ExistingUseSimpleBoxCollision", "d5/d03/struct_existing_static_mesh_data.html#ad8373e3bf1c8c84a803daa17f71da431", null ],
+    [ "ExistingUseSimpleLineCollision", "d5/d03/struct_existing_static_mesh_data.html#aac2aa3b0aaedd3df5ee827f3b1c22c1b", null ],
+    [ "ExistingUseSimpleRigidBodyCollision", "d5/d03/struct_existing_static_mesh_data.html#adcc5c6045d5020fee8c55cae2b28a12b", null ],
+    [ "ExistingVertexColorData", "d5/d03/struct_existing_static_mesh_data.html#aecd7a27cf5561f4bc126522b5990681e", null ],
+    [ "ExistingVertexPositionVersionNumber", "d5/d03/struct_existing_static_mesh_data.html#a42d447ab32f7abf7fb1a9386af2c2341", null ]
+];

@@ -1,0 +1,28 @@
+var class_u_ph_a_t_sim_options =
+[
+    [ "StaticConfigName", "db/d82/class_u_ph_a_t_sim_options.html#a8c2bc6e0ad8e3ceffa4b677cc179d908", null ],
+    [ "AngularDampingScale", "db/d82/class_u_ph_a_t_sim_options.html#adafe6dd3a4f3727eba119a06a3be7f5b", null ],
+    [ "AngularSnap", "db/d82/class_u_ph_a_t_sim_options.html#a60c884f6fa00c651827044235b0fccfd", null ],
+    [ "AngularSpringScale", "db/d82/class_u_ph_a_t_sim_options.html#a7b0ce488094bf5387431b23c6142e5c7", null ],
+    [ "bBlendOnPoke", "db/d82/class_u_ph_a_t_sim_options.html#ae5039130d244e74b3eacea834dfcc26a", null ],
+    [ "bDrawContacts", "db/d82/class_u_ph_a_t_sim_options.html#ae2a701b712f1fe612273461b76fabfc0", null ],
+    [ "bPromptOnBoneDelete", "db/d82/class_u_ph_a_t_sim_options.html#a6ea91520c68bcae942be3ee6a12f9d6c", null ],
+    [ "Brightness", "db/d82/class_u_ph_a_t_sim_options.html#aaf085ce5daedc61114dce280839c4cff", null ],
+    [ "bShowConstraintsAsPoints", "db/d82/class_u_ph_a_t_sim_options.html#afe4a8023dc970b831d66657a9b9752b1", null ],
+    [ "bShowNamesInHierarchy", "db/d82/class_u_ph_a_t_sim_options.html#a5217fec4256a7cfccfc6f211e44b0813", null ],
+    [ "ConstraintDrawSize", "db/d82/class_u_ph_a_t_sim_options.html#a2eb31aa48f7d866602a74d2136ebd02f", null ],
+    [ "FloorGap", "db/d82/class_u_ph_a_t_sim_options.html#a233b996bac1a91a724153c9fb9b189e8", null ],
+    [ "GravScale", "db/d82/class_u_ph_a_t_sim_options.html#ab3212a2408f930fc5fbd61ab9bd95f4a", null ],
+    [ "HandleAngularDamping", "db/d82/class_u_ph_a_t_sim_options.html#a234331bba42cfca9a1ba9a334889a117", null ],
+    [ "HandleAngularStiffness", "db/d82/class_u_ph_a_t_sim_options.html#a44a26d9cfa79dd64885018485dfdbdd2", null ],
+    [ "HandleLinearDamping", "db/d82/class_u_ph_a_t_sim_options.html#a23ef9341057316500e60cc9effd45451", null ],
+    [ "HandleLinearStiffness", "db/d82/class_u_ph_a_t_sim_options.html#af253eb60d5a32ea646c28915380d7fea", null ],
+    [ "LinearSnap", "db/d82/class_u_ph_a_t_sim_options.html#a19547b64d0eea5364de525e84b99061c", null ],
+    [ "PhysicsBlend", "db/d82/class_u_ph_a_t_sim_options.html#acfcfaa27aa373b6bf7ef7523e38cdade", null ],
+    [ "PokeBlendTime", "db/d82/class_u_ph_a_t_sim_options.html#a84b7a678fd830d5aca4d8677db3e5f8f", null ],
+    [ "PokePauseTime", "db/d82/class_u_ph_a_t_sim_options.html#ad75b4195d07c763a0869c23619d88fa9", null ],
+    [ "PokeStrength", "db/d82/class_u_ph_a_t_sim_options.html#aced57ec4a814139e0552801a5d09acd3", null ],
+    [ "PreviewAnimSet", "db/d82/class_u_ph_a_t_sim_options.html#ac9d8f0b94c5f386f7555e6fdfffc8465", null ],
+    [ "SimSpeed", "db/d82/class_u_ph_a_t_sim_options.html#a97e42bee106df5d93f2e81a6446f80cc", null ],
+    [ "SkyBrightness", "db/d82/class_u_ph_a_t_sim_options.html#a512fb5b86a8842982d8e8d6d248d0af9", null ]
+];

@@ -1,0 +1,28 @@
+var class_f_x_audio2_sound_buffer =
+[
+    [ "FXAudio2SoundBuffer", "d7/d7f/class_f_x_audio2_sound_buffer.html#a18d2497fc5f8e93fa4feb32bc8b1a35c", null ],
+    [ "~FXAudio2SoundBuffer", "d7/d7f/class_f_x_audio2_sound_buffer.html#a5cd46f4b587eb8e3dd60b58fbceff32a", null ],
+    [ "CreateNativeBuffer", "d7/d7f/class_f_x_audio2_sound_buffer.html#a475c91e77586d8011e01d3f0acf0119a", null ],
+    [ "CreatePreviewBuffer", "d7/d7f/class_f_x_audio2_sound_buffer.html#a62a9632f30d3616d78e5944978781b34", null ],
+    [ "CreateProceduralBuffer", "d7/d7f/class_f_x_audio2_sound_buffer.html#a552f7acfc8606012b2d4b361bf26ee0b", null ],
+    [ "CreateQueuedBuffer", "d7/d7f/class_f_x_audio2_sound_buffer.html#ae49862e6f4cf868049efc8d601e1a24a", null ],
+    [ "GetSize", "d7/d7f/class_f_x_audio2_sound_buffer.html#ac541669c1869481b1e175c969fa7667f", null ],
+    [ "GetSoundFormat", "d7/d7f/class_f_x_audio2_sound_buffer.html#ab5310d532611e6a9a4634a7a5334330a", null ],
+    [ "Init", "d7/d7f/class_f_x_audio2_sound_buffer.html#a730004f34332179dfa7e8fa44a6327c5", null ],
+    [ "InitWaveFormatEx", "d7/d7f/class_f_x_audio2_sound_buffer.html#ac5a84c9cedfdd0e9a183ddd0addb5422", null ],
+    [ "InitXenon", "d7/d7f/class_f_x_audio2_sound_buffer.html#a85d6a49259ffc5f689bddca0cd8e3e1a", null ],
+    [ "InitXMA2", "d7/d7f/class_f_x_audio2_sound_buffer.html#aaa4f968ec90d1072e9e3935fe4e377c6", null ],
+    [ "InitXWMA", "d7/d7f/class_f_x_audio2_sound_buffer.html#a236b42d2d0ea9a6207803d16319ec9d6", null ],
+    [ "ReadCompressedData", "d7/d7f/class_f_x_audio2_sound_buffer.html#a5657227a9b9dfabe95d41892bd890115", null ],
+    [ "AudioDevice", "d7/d7f/class_f_x_audio2_sound_buffer.html#a4cb1ceb8bc620ae0366f8a56492183df", null ],
+    [ "bAllocationInPermanentPool", "d7/d7f/class_f_x_audio2_sound_buffer.html#ab7d22ae6d55fecab51f4b45fc5a846f3", null ],
+    [ "bDynamicResource", "d7/d7f/class_f_x_audio2_sound_buffer.html#a25a0c6db3cd563233b7a4b845c8c385e", null ],
+    [ "DecompressionState", "d7/d7f/class_f_x_audio2_sound_buffer.html#ae0d2f1274b7dc1b52f1e67abfec28fb4", null ],
+    [ "NumChannels", "d7/d7f/class_f_x_audio2_sound_buffer.html#a5d76a17e74f7abdd85d0fa468c67ef14", null ],
+    [ "PCM", "d7/d7f/class_f_x_audio2_sound_buffer.html#a2e0fae4b271b25b0b96ce4db813bb71c", null ],
+    [ "ResourceID", "d7/d7f/class_f_x_audio2_sound_buffer.html#abd7d36b10501688e306aa65792f8def6", null ],
+    [ "ResourceName", "d7/d7f/class_f_x_audio2_sound_buffer.html#a02c55c77c0257f452645f3ebd2633d3a", null ],
+    [ "SoundFormat", "d7/d7f/class_f_x_audio2_sound_buffer.html#ac1cec5b10812fc49dfe4cabc01cf6468", null ],
+    [ "XMA2", "d7/d7f/class_f_x_audio2_sound_buffer.html#a25749fc48b108901acb0d280c08d27e4", null ],
+    [ "XWMA", "d7/d7f/class_f_x_audio2_sound_buffer.html#ac35cbdca8ee106ab5be9ece6dbdc1044", null ]
+];
