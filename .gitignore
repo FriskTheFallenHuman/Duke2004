@@ -1049,6 +1049,7 @@ dkms.conf
 Development/External
 Development/Intermediate
 Development/Install
+Development/Documentation/PC/*
 
 ### UE3 Game Relate stuffs
 DukeGame/Script/*.u
