@@ -1,5 +1,20 @@
 # Force some filetypes to be text
 *.xml text
 *.properties text
-*.int text
 *.sha text
+
+# Unreal Engine Localization Files
+*.int text
+*.chn text
+*.cze text
+*.deu text
+*.esm text
+*.fra text
+*.hun text
+*.ita text
+*.jpn text
+*.kor text
+*.pol text
+*.ptb text
+*.rus text
+*.slo text
